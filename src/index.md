@@ -4,7 +4,16 @@ layout: default
 
 ## PyCon UK will be returning to {{ site.con_location }} from {{ site.con_start }} to {{ site.con_finish }} {{ site.con_year }}.
 
-<p>You can follow us on <a href="https://fosstodon.org/@PyConUK">Mastodon (@PyConUK@fosstodon.org)</a> or <a href="https://twitter.com/pyconuk">Twitter (@PyConUK)</a>.</p>
+<p>PyCon UK is a community conference, entirely run by volunteers. If you or your company would like to sponsor us, please get in touch at {{ "sponsorship@uk.python.org" | create_mailto_link }}</p>
+
+<p>You can follow us on 
+  <ul>
+    <li><a href="https://www.linkedin.com/company/pycon-uk">LinkedIn</a></li>
+    <li><a href="https://bsky.app/profile/pyconuk.org">Bluesky (@pyconuk.org)</a></li>
+    <li><a href="https://fosstodon.org/@PyConUK">Mastodon (@PyConUK@fosstodon.org)</a></li>
+    <li><a href="https://twitter.com/pyconuk">Twitter (@PyConUK)</a></li>
+  </ul>
+</p>
 <br />
 
 <p>PyCon UK related merchandise is available <a href="https://pyconuk.myspreadshop.co.uk/">here</a>.</p>
