@@ -8,9 +8,10 @@ Please send invoices in PDF format to {{ "kristian.glass@uk.python.org" | create
 ```
 UKPA Trading Ltd.
 c/o Acconomy,
-Arena Business Centre,
-Poole,
-BH17 7FJ
+Bayside Business Centre
+Sovereign Business Park, Willis Way
+Poole
+BH15 3TB
 ```
 
 Our VAT number is `{{ site.con_vat_number }}`.
