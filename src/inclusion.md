@@ -109,19 +109,7 @@ We have provision for people with hearing, vision and mobility requirements.
   <h3>Mobility</h3>
 
   <p>
-    The PyCon UK venue is split across multiple levels.
-    There is step-free access to most of the building:
-  </p>
-  <ul>
-    <li>There is a wheelchair lift from street level to the ground floor</li>
-    <li>There is a lift from the ground floor to the first floor</li>
-    <li>There are steps to access the Council Chamber, which we use as our Quiet Room</li>
-  </ul>
-  <p>
-    There are accessible bathrooms on the ground floor.
-  </p>
-  <p>
-    Please contact us about any mobility assistance needs you may have during your stay in Cardiff. We can provide parking at the venue for attendees with access needs.
+    Please contact us about any mobility assistance needs you may have during your stay.
   </p>
 </div>
 

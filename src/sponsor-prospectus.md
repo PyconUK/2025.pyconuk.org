@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="slide">
-  <h1>Four Days of Python Events in Cardiff</h1>
+  <h1>PyConUK in {{ site.con_location }}</h1>
   <p>{{ site.con_start }} - {{ site.con_finish }} {{ site.con_year }}</p>
   <p>{{ site.con_location }}</p>
   <p>PyCon UK is organised entirely by unpaid volunteer members of the Python community in the UK.</p>

@@ -30,23 +30,6 @@ title: Information for sponsors
   </p>
 </div>
 
-<div class="box box_blue">
-  <h3>Materials</h3>
-
-  <p>
-    You may arrange to have materials delivered to the venue in advance. Please address all consignments as follows:
-  </p>
-
-  <p>
-    <strong>PyCon UK {{ site.con_year }}</strong><br />
-    <strong>&lt;your company's name&gt;</strong><br />
-    Cardiff City Hall<br />
-    Cathays Park<br />
-    Cardiff<br />
-    CF10 3ND
-  </p>
-</div>
-
 <div class="box box_red">
   <h3>Banners</h3>
 
