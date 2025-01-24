@@ -19,4 +19,4 @@ if ! bundle exec jekyll -v >/dev/null; then
   bundle exec jekyll build
 fi
 
-bundle exec jekyll serve
+bundle exec jekyll serve "$@"
