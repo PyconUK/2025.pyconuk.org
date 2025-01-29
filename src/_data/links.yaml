@@ -1,0 +1,41 @@
+# Common links.
+#
+# For example, to insert a link to Mastodon in a Markdown Document you can put
+# {{site.md_mastodon}} {{site.md_mastodon_short}}. The first will render as:
+#
+#     Mastodon (@PyConUK@fosstodon.org)
+#
+# while short version will just appear as::
+#
+#     Mastodon
+#
+# The prefix 'md_' means that the abbreviation is only suitable for use in
+# content MarkDown files.
+#
+md:
+  long:
+    bluesky: "[Bluesky (@pyconuk.org)](https://bsky.app/profile/pyconuk.org)"
+    discord: "[Discord channel](https://discord.com/channels/1047085855958900776/1047085856554483784)"
+    linkedin: "[LinkedIn](https://www.linkedin.com/company/pycon-uk)"
+    mastodon: "[Mastodon (@PyConUK@fosstodon.org)](https://fosstodon.org/@PyConUK)"
+    twitter: "[X(Twitter) (@PyConUK)](https://twitter.com/pyconuk)"
+
+  short:
+    bluesky: "[Bluesky](https://bsky.app/profile/pyconuk.org)"
+    discord: "[Discord channel](https://discord.com/channels/1047085855958900776/1047085856554483784)"
+    linkedin: "[LinkedIn](https://www.linkedin.com/company/pycon-uk)"
+    mastodon: "[Mastodon](https://fosstodon.org/@PyConUK)"
+    twitter: "[X(Twitter)](https://twitter.com/pyconuk)"
+
+html:
+  long:
+    bluesky: '<a href="https://bsky.app/profile/pyconuk.org">Bluesky (@pyconuk.org)</a>'
+    linkedin: '<a href="https://www.linkedin.com/company/pycon-uk">LinkedIn</a>'
+    mastodon: '<a href="https://fosstodon.org/@PyConUK">Mastodon (@PyConUK@fosstodon.org)</a>'
+    twitter: '<a href="https://twitter.com/pyconuk">X(Twitter) (@PyConUK)</a>'
+
+  short:
+    bluesky: '<a href="https://bsky.app/profile/pyconuk.org">Bluesky</a>'
+    linkedin: '<a href="https://www.linkedin.com/company/pycon-uk">LinkedIn</a>'
+    mastodon: '<a href="https://fosstodon.org/@PyConUK">Mastodon</a>'
+    twitter: '<a href="https://twitter.com/pyconuk">X(Twitter)</a>'
