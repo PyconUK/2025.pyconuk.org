@@ -15,17 +15,12 @@ Manchester from the 19th to the 22nd of September. Known for its rich
 industrial history, vibrant culture, and thriving tech scene, Manchester
 provides the perfect backdrop for the conference.
 
-{% if site.venu_confirmed == true %}
 The venue for this year will be [Contact], a leading national theatre and arts
 centre. Contact works with local communities, as well as nationally and
 internationally, to provide life-changing opportunities for the next generation
 of creative leaders, artists and audiences. Located in the heart of Manchester,
 Contact offers state-of-the-art facilities and a welcoming, accessible space
 designed to facilitate collaboration, learning, and innovation.
-{% else %}
-**We expect to be able to announce our venue soon on this blog.** Keep checking
-here for details.
-{% endif %}
 
 This year’s PyCon UK will feature the usual full programme of talks, workshops,
 and sprints, designed for Python enthusiasts of all levels. Whether you’re a
