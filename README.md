@@ -40,6 +40,32 @@ This will start a webserver on [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
 To view the website open [http://127.0.0.1:4000/](http://127.0.0.1:4000/) in your favorite web browser.
 This will also automatically rebuild the project when a change to the source is detected.
 
+If port 4000 is not available on your computer use the ``--port`` option. For example:
+
+```bash
+./run --port 4020
+```
+
+You may also find adding the ``--livereload`` option useful as an alternative
+to having to keep restarting `run` to see the effects of changes. (Restarting
+may still occasionally be necessary, for example after editing the
+configuration.)
+
+
+### Adding blog posts
+
+Blog posts live in `src/_posts`. Each post is a file with a name of the form
+`2025-01-30-<some-name>.md`; for example `2025-01-30-new-year-new-pycon.md`.
+
+By default, posts with dates in the future will not be added to the site. To
+see future posts on your local computer provide the `run` script with the
+``--future`` option. You can also put draft posts in a `_drafts` directory, in
+which case you need to pass `--drafts` to `run`.
+
+**Note a post with a date in the future will not automatically get deployed
+when the main branch is updated. A manual deployment run will be required on or
+after the post date.**
+
 
 ## Help! Bundler is mucking around and won't install anything (execution expired)
 
