@@ -12,6 +12,8 @@
         <h2>{{ page.title }}</h2>
         {% endif %}
 
+        <em>{{page.date | date: "%-d %b %Y"}}</em>
+
         {{ content }}
         <hr>
         <a href="/blog">Back to the blogs</a>

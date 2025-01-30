@@ -20,12 +20,16 @@ md:
     mastodon: "[Mastodon (@PyConUK@fosstodon.org)](https://fosstodon.org/@PyConUK)"
     twitter: "[X(Twitter) (@PyConUK)](https://twitter.com/pyconuk)"
 
+    contactmcr: "[Contact](https://contactmcr.com)"
+
   short:
     bluesky: "[Bluesky](https://bsky.app/profile/pyconuk.org)"
     discord: "[Discord channel](https://discord.com/channels/1047085855958900776/1047085856554483784)"
     linkedin: "[LinkedIn](https://www.linkedin.com/company/pycon-uk)"
     mastodon: "[Mastodon](https://fosstodon.org/@PyConUK)"
     twitter: "[X(Twitter)](https://twitter.com/pyconuk)"
+
+    contactmcr: "[Contact](https://contactmcr.com)"
 
 html:
   long:
@@ -34,8 +38,12 @@ html:
     mastodon: '<a href="https://fosstodon.org/@PyConUK">Mastodon (@PyConUK@fosstodon.org)</a>'
     twitter: '<a href="https://twitter.com/pyconuk">X(Twitter) (@PyConUK)</a>'
 
+    contactmcr: '<a href="https://contactmcr.com">Contact</a>'
+
   short:
     bluesky: '<a href="https://bsky.app/profile/pyconuk.org">Bluesky</a>'
     linkedin: '<a href="https://www.linkedin.com/company/pycon-uk">LinkedIn</a>'
     mastodon: '<a href="https://fosstodon.org/@PyConUK">Mastodon</a>'
     twitter: '<a href="https://twitter.com/pyconuk">X(Twitter)</a>'
+
+    contactmcr: '<a href="https://contactmcr.com">Contact</a>'
