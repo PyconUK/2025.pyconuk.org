@@ -3,4 +3,6 @@ layout: default
 title: Venue
 ---
 
-The conference is being held in Manchester, venue details coming soon!
+This year's conference is being held at {{ site.con_location }}
+
+More details coming soon!
