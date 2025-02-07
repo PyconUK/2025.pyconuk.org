@@ -4,7 +4,7 @@ layout: default
 
 {% assign links = site.data.links.html.long %}
 
-## PyCon UK will be at {{ site.con_location }} from {{ site.con_start }} to {{ site.con_finish }} {{ site.con_year }}.
+## PyCon UK will be at {{ links.contactmcr }} from {{ site.con_start }} to {{ site.con_finish }} {{ site.con_year }}.
 
 <p>PyCon UK is a community conference, entirely run by volunteers. If you or your company would like to sponsor us, please get in touch at {{ "sponsorship@uk.python.org" | create_mailto_link }}</p>
 
