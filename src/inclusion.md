@@ -69,7 +69,7 @@ We have provision for people with hearing, vision and mobility requirements.
   <figure>
     <img src="/images/captioning_1x.jpg" srcset="/images/captioning_1x.jpg 1x, /images/captioning_2x.jpg 2x" alt="A large screen with a black background and yellow text.">
     <figcaption>
-      Live captions are displayed on screens on either side of the main stage.
+      Live captions are displayed on screens on either side of the main stage at Cardiff City Hall.
       Photo by <a href="https://twitter.com/drvinceknight/status/777058766747500544">Vince Knight</a>.
     </figcaption>
   </figure>
@@ -131,7 +131,7 @@ We have provision for people with hearing, vision and mobility requirements.
 
 <div class="box box_blue">
   <figure>
-    <img src="/images/quiet_room_1x.jpg" srcset="/images/quiet_room_1x.jpg 1x, /images/quiet_room_2x.jpg 2x" alt="Looking towards the centre of a circular room with raked seating.">
+    <img src="/images/quiet_room_1x.jpg" srcset="/images/quiet_room_1x.jpg 1x, /images/quiet_room_2x.jpg 2x" alt="Looking towards the centre of a circular room in Cardiff City Hall with raked seating.">
     <figcaption>
       The quiet room is a place to relax and unwind away from the conference.
       Photo from the 2017 conference in Cardiff by <a href="https://www.flickr.com/photos/152472562@N06/26211372859/">Mark Hawkins</a>, CC BY.

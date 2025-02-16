@@ -33,9 +33,9 @@ More information, including a sponsorship prospectus ***coming soon***.
   <img
     src="/images/marble_hall_1x.jpg"
     srcset="/images/marble_hall_1x.jpg 1x, /images/marble_hall_2x.jpg 2x"
-    alt="Looking down room with tables along either side. The tables have branding from various companies.">
+    alt="Looking down hall in Cardiff City Hall with tables along either side. The tables have branding from various companies.">
   <figcaption>
-    Sponsor stands in the Marble Hall at PyCon UK 2022.
+    Sponsor stands in the Cardiff City Hall Marble Hall at PyCon UK 2022.
     Photo taken by <a href="https://www.flickr.com/photos/184390836@N04/52363686581/in/album-72177720302176293/">Mark Hawkins</a>, CC BY.
   </figcaption>
 </figure>

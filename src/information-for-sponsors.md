@@ -48,9 +48,9 @@ title: Information for sponsors
     <img
       src="/images/sponsors_1x.jpg"
       srcset="/images/sponsors_1x.jpg 1x, /images/sponsors_2x.jpg 2x"
-      alt="Looking down room with tables along either side. The tables have branding from various companies.">
+      alt="Looking down hall in Cardiff City Hall with tables along either side. The tables have branding from various companies.">
     <figcaption>
-      Sponsor stands in the Marble Hall at PyCon UK 2019.
+      Sponsor stands in the Cardiff City Hall Marble Hall at PyCon UK 2019.
       Photo taken by <a href="https://www.flickr.com/photos/184390836@N04/48726548331/in/album-72157710822891673/">Mark Hawkins</a>, CC BY.
     </figcaption>
   </figure>

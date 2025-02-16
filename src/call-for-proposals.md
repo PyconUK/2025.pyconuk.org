@@ -19,7 +19,7 @@ title: Call for Proposals
 
 <div class="box box_blue">
   <figure>
-    <img src="/images/assembly_room.jpg" alt="A person talking from a lectern on a stage to an audience with a slide visible on a projector. Also visible are the speech to text screens on either side of the room and the impressively ornate ceiling.">
+    <img src="/images/assembly_room.jpg" alt="A person talking from a lectern on a stage at Cardiff City Hall to an audience with a slide visible on a projector. Also visible are the speech to text screens on either side of the room and the impressively ornate ceiling.">
   </figure>
 
   <h3>Main Stage Events</h3>
@@ -31,7 +31,7 @@ title: Call for Proposals
 
 <div class="box box_yellow">
   <figure>
-    <img src="/images/workshop.jpg" alt="Two people can be seen sitting at desks, intent upon their laptops as they work on the workshop. A large screen shows information pertaining to the workshop.">
+    <img src="/images/workshop.jpg" alt="Two people can be seen sitting at desks, intent upon their laptops as they work on the workshop in Cardiff City Hall. A large screen shows information pertaining to the workshop.">
   </figure>
 
   <h3>Classroom Events</h3>
@@ -43,7 +43,7 @@ title: Call for Proposals
 
 <div class="box box_red">
   <figure>
-    <img src="/images/room_d.jpg" alt="A person talking to an audience with a projector screen behind them a flipchart to their right.">
+    <img src="/images/room_d.jpg" alt="A person talking to an audience in Cardiff City Hall with a projector screen behind them a flipchart to their right.">
   </figure>
   <h3>Lecture Room Events</h3>
   <p><strong>Go a little deeper!</strong></p>
