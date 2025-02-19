@@ -10,7 +10,7 @@ title: Information for sponsors
     <li>the name, email address, and phone number of somebody who'll be at the conference, and who can act as our point of contact</li>
     <li>a PNG/JPEG logo for the website, width 1068 pixels or larger</li>
     <li>a link to your website</li>
-    <li>your Twitter username if you have one</li>
+    <li>your social media handles for any or all of: Bluesky, LinkedIn, Mastodon, or Twitter</li>
   </ul>
 </div>
 
@@ -73,6 +73,6 @@ title: Information for sponsors
 <div class="box box_red">
   <h3>Social media</h3>
   <p>
-    We use <em>#PyConUK</em> and <em>@PyConUK</em> on Twitter.
+    We use the <em>#PyConUK2025</em> hashtag for all social media channels.
   </p>
 </div>
