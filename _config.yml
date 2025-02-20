@@ -19,7 +19,7 @@ title: "PyCon UK 2025"
 # Flags for when things™ happen
 cfp_open: false
 cfp_closed: false
-spons_prosp_avail: false
+spons_prosp_avail: true
 tickets_open: false
 schedule_ready: false
 show_sponsors: false
