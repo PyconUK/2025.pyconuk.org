@@ -22,7 +22,7 @@ title: Information for sponsors
   </p>
 
   <p>
-    <a href="/sponsorship/">All sponsorship packages</a> include at least one complimentary ticket, but please ensure your package includes sufficient tickets for all your attendees. You will need to purchase additional tickets if required.
+    <a href="/sponsorship/">Most sponsorship packages</a> include at least one complimentary ticket, but please ensure your package includes sufficient tickets for all your attendees. You will need to purchase additional tickets if required.
   </p>
 
   <p>
@@ -65,9 +65,6 @@ title: Information for sponsors
     </ul>
   </p>
 
-  <p>
-    <strong>Platinum</strong> sponsors may bring their own, larger, booth equipment.
-  </p>
 </div>
 
 <div class="box box_red">
