@@ -28,7 +28,7 @@ Here's a breakdown of the different event formats you can expect at PyCon UK 202
 * __Lightning talks__: These short, focused presentations offer a quick and engaging way to share ideas, projects, or insights. Everyone is welcome to jump in, get involved and share their thoughts with the community!
 * __Sponsor booths__: Meet with sponsors at their booths to learn about the latest tools, technologies, and services relevant to the Python community. This is a great chance to ask questions, explore career opportunities, and discover how companies are using Python in innovative ways.
 * __Evening socials__: Beyond the daily program, PyCon UK has evening social events. These informal gatherings may take place at the venue or somewhere close by, and have previously included board gaming, crocheting, and live algorithmically generated music.
-* __Young Coder's Day__: A dedicated day for young people aged approximately 8-16 years to explore the world of coding and Python. It's a fun and engaging way to introduce the next generation to the exciting world of programming.
+* __Young Coders' Day__: A dedicated day for young people aged approximately 8-16 years to explore the world of coding and Python. It's a fun and engaging way to introduce the next generation to the exciting world of programming.
 Django Girls Workshop: A full day workshop aimed at introducing new programmers to the world of Django (applications will run in parallel to the main conference).
 Checkout the [FAQ page](https://2025.pyconuk.org/faq/) for more information about the format of PyCon UK events.
 
