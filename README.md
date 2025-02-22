@@ -36,21 +36,15 @@ Now that you have all of Jekyll's requirements installed you can install and run
 ./run
 ```
 
-This will start a webserver on [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
-To view the website open [http://127.0.0.1:4000/](http://127.0.0.1:4000/) in your favorite web browser.
+This will start a webserver on [http://127.0.0.1:4020/](http://127.0.0.1:4020/).
+To view the website open [http://127.0.0.1:4020/](http://127.0.0.1:4020/) in your favorite web browser.
 This will also automatically rebuild the project when a change to the source is detected.
 
-If port 4000 is not available on your computer use the ``--port`` option. For example:
+If you change the `_config.yml`, you will need to restart.
 
-```bash
-./run --port 4020
-```
-
-You may also find adding the ``--livereload`` option useful as an alternative
-to having to keep restarting `run` to see the effects of changes. (Restarting
-may still occasionally be necessary, for example after editing the
-configuration.)
-
+If port 4020 is not available on your computer, you can run on another port with `--port <another port>`, e.g. `./run --port 4090`
+You can disable livereload with `--nolivereload`, and not show future blog posts (the default after deployment, see below) with `--nofuture`.
+If you need to check options, run `./run --help` to see available flags/etc which you can then pass directly to `./run`.
 
 ### Adding blog posts
 

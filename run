@@ -19,4 +19,33 @@ if ! bundle exec jekyll -v >/dev/null; then
   bundle exec jekyll build
 fi
 
-bundle exec jekyll serve "$@"
+# Define default option values.
+PORT=4020
+FUTURE="--future"
+LIVERELOAD="--livereload"
+
+# Parse command line for option value over-rides.
+rem_args=()
+while [ "$#" != '0' ]; do
+  case "$1" in
+    "--port")
+      shift
+      PORT="$1"
+    ;;
+
+    "--nofuture")
+      FUTURE=
+    ;;
+
+    "--nolivereload")
+      LIVERELOAD=    
+    ;;
+
+    *)
+      rem_args+=("$1")
+    ;;
+  esac
+  shift
+done
+
+bundle exec jekyll serve --port "$PORT" "$FUTURE" "$LIVERELOAD" "${rem_args[@]}"
