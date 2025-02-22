@@ -65,27 +65,3 @@ which case you need to pass `--drafts` to `run`.
 **Note a post with a date in the future will not automatically get deployed
 when the main branch is updated. A manual deployment run will be required on or
 after the post date.**
-
-
-## Help! Bundler is mucking around and won't install anything (execution expired)
-
-You may need to disable IPv6 as apparently bundler is rather shoddy.
-
-On Ubuntu:
-```bash
-echo "Showing current IPv6 state"
-for conf_entry in all default lo; do
-  sysctl net.ipv6.conf.${conf_entry}.disable_ipv6=1
-done
-echo "Updating IPv6 state"
-for conf_entry in all default lo; do
-  sudo sysctl -w net.ipv6.conf.${conf_entry}.disable_ipv6=1
-done
-```
-
-You can re-enable it afterwards, e.g. on Ubuntu
-```bash
-for conf_entry in all default lo; do
-  sudo sysctl -w net.ipv6.conf.${conf_entry}.disable_ipv6=0
-done
-```
