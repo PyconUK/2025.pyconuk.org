@@ -30,7 +30,7 @@ title: Call for Proposals
 
   <h3>Submit a talk proposal</h3>
   <p><strong>Speak on our main stage</strong></p> 
-  <p>All sessions on the main stage are 30 minutes long and are recorded and uploaded to our YouTube channel.</p>
+  <p>All sessions on the main stage are 25 minutes long (including time for discussion) and are recorded and uploaded to our YouTube channel.</p>
 </div>
 
 <div class="box box_yellow">
@@ -40,7 +40,7 @@ title: Call for Proposals
 
   <h3>Submit a proposal for an in-depth talk</h3>
   <p><strong>Explore a topic more deeply with a smaller audience (max. 60 people)</strong></p>
-  <p>Sessions are 90 minutes long and are not recorded.</p>
+  <p>Sessions are 85 minutes long and are not recorded.</p>
 </div>
 
 <div class="box box_red">
@@ -49,7 +49,7 @@ title: Call for Proposals
   </figure>
   <h3>Submit a proposal for an interactive workshop or collaborative session</h3>
   <p><strong>Max. 50 people, in a classroom-style set-up</strong></p>
-  <p>Sessions are 90 minutes long and are not recorded.</p>
+  <p>Sessions are 85 minutes long and are not recorded.</p>
 </div>
 
 <div class="box box_yellow">
