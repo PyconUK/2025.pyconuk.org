@@ -8,6 +8,9 @@ layout: default
 
 <p>PyCon UK is a community conference, entirely run by volunteers. If you or your company would like to sponsor us, please get in touch at {{ "sponsorship@uk.python.org" | create_mailto_link }}</p>
 
+{% if site.cfp_closed %}<!--{% endif %}<p>{% if site.cfp_open %}<p>Our CFP is open- if you have an idea for something you'd like to share with our audience: <a href="/call-for-proposals/">Tell us about it!</a>{% else %}CFP coming soon!{% endif %}</p>{% if site.cfp_closed %}-->{% endif %}
+<p>{% if site.tickets_open == true %}<p><a href="/tickets">Join us in {{ site.con_location }}!</a>{% else %}Tickets coming soon!{% endif %}</p>
+
 <p>You can follow us on
   <ul>
     <li>{{links.bluesky}}</li>
@@ -33,7 +36,3 @@ layout: default
 <br />
 
 <a href="/faq/">Help, I'm new to Python and PyCon UK! What does all this mean?</a>
-<br />
-
-{% if site.cfp_closed %}<!--{% endif %}<p>{% if site.cfp_open %}<p>Do you have an idea for something you'd like to share with our audience? <a href="/call-for-proposals/">Tell us about it!</a>{% else %}CFP coming soon!{% endif %}</p>{% if site.cfp_closed %}-->{% endif %}
-<p>{% if site.tickets_open == true %}<p><a href="/tickets">Join us in {{ site.con_location }}!</a>{% else %}Tickets coming soon!{% endif %}</p>
