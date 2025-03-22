@@ -19,6 +19,8 @@ title: "PyCon UK 2025"
 # Flags for when things™ happen
 cfp_open: true
 cfp_closed: false
+fin_aid_open: true
+fin_aid_closed: false
 spons_prosp_avail: true
 tickets_open: false
 schedule_ready: false
@@ -29,7 +31,7 @@ show_django_girls: false
 con_year: 2025
 con_start: Friday 19th September
 con_finish: Monday 22nd September
-con_financial_assistance_deadline: "XX:00 (Europe/London) on Someday, Nth Somemonth"
+con_financial_assistance_deadline: "17:00 (Europe/London) on Friday, 11th July"
 cfp_end: Sunday 11th May 2025
 django_girls_date: Saturday 20th September
 young_coders_date: Saturday 20th September
@@ -44,7 +46,7 @@ ukpa: The UK&nbsp;Python Association (a charity registered in England and Wales 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2025.pyconuk.org" # the base hostname & protocol for your site, e.g. http://example.com
-
+fin_aid_form_url: https://forms.gle/DQdn1VJaG1z76LJw6
 # Build settings
 source: src
 destination: _site
