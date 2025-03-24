@@ -14,11 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+plugins:
+  - jekyll-redirect-from
+
 title: "PyCon UK 2025"
 
 # Flags for when things™ happen
 cfp_open: true
 cfp_closed: false
+fin_aid_open: true
+fin_aid_closed: false
 spons_prosp_avail: true
 tickets_open: false
 schedule_ready: false
@@ -29,7 +34,7 @@ show_django_girls: false
 con_year: 2025
 con_start: Friday 19th September
 con_finish: Monday 22nd September
-con_financial_assistance_deadline: "XX:00 (Europe/London) on Someday, Nth Somemonth"
+con_financial_assistance_deadline: "17:00 (Europe/London) on Friday, 11th July"
 cfp_end: Sunday 11th May 2025
 django_girls_date: Saturday 20th September
 young_coders_date: Saturday 20th September
