@@ -169,6 +169,6 @@ We have provision for people with hearing, vision and mobility requirements.
   </p>
 
   <p>
-    We run a financial assistance programme, and we will announce details soon.
+    {% if site.fin_aid_closed %}Financial aid applications have now closed.{% elsif site.fin_aid_open == true %}<a href="/financial-assistance/">Read about, or apply for financial assistance.</a>{% else %}We run a financial assistance programme, and we will announce details soon.{% endif %}
   </p>
 </div>
