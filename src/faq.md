@@ -11,6 +11,18 @@ title: FAQs
 
 <p><strong>What is Python?</strong> <a href="https://docs.python.org/3/faq/general.html#what-is-python">The Python website</a> has lots of helpful details on Python, including links to tutorials.</p>
 
+<p><strong>Do you pay speaker expenses?</strong> All speakers, workshop leaders and Young Coder session leaders
+will receive a free ticket to the full 4 day conference.  Unfortunately, as a community conference, we do not have the
+funds to pay for additional travel and accommodation costs.</p>
+
+<p><strong>What age is the Young Coders Day aimed at?</strong> We expect that Young Coders sessions will be suitable
+for approximately 8-16 year olds.</p>
+
+<p><strong>I'm 17. Can I come to the conference?</strong >Yes! Under-18s are welcome as attendees at the main conference. However, if you are under 18, you will need to be accompanied by an adult, who is the main ticket holder. Each conference ticket holder can add up to 2 under-18s to their ticket purchase.</p>
+
+<p><strong>Can you help me with a visa application?</strong> If you require an invitation letter for your visa application, please first purchase your ticket and then send an email to {{ "pyconuk@uk.python.org" | create_mailto_link }} with your request.</p>
+
+
 <h2>Glossary</h2>
 <table class="table">
   <tbody>
@@ -42,6 +54,7 @@ title: FAQs
 <div class="box box_yellow">
   <h3 id="youngcoders">Young Coders' Events</h3>
   <p>Calling all young coders! Join us at PyCon UK for a day of Python, learning new skills and trying out exciting projects. We'll be running workshops in the morning to get to grips with coding and after lunch you'll have the opportunity to work together and create something new. At the end of the day, you'll show and tell your creations with the rest of the conference!</p>
+  <p>Young Coder's sessions are aimed at those aged around 8-16 years.</p>
 </div>
 
 <div class="box box_bronze">
