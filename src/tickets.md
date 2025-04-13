@@ -18,12 +18,12 @@ title: Tickets
 
 <div class="box box_blue">
   <h3>How to select your ticket rate</h3>
-  <p>If your tickets are being paid for by your employer, please select the <strong>Standard</strong> rate.</p>
-  <p>If you are paying for your ticket out of your own pocket, please select the <strong>Individual</strong> rate.</p>
+  <p>If your tickets are being paid for by your employer, and/or you need a VAT receipt, please select the <strong>Corporate</strong> rate.</p>
+  <p>If you are paying for your ticket out of your own pocket, and are not being reimbursed by your employer, please select the <strong>Individual</strong> rate.</p>
   <p>If you are unwaged (for example in full-time education), please select the <strong>Unwaged</strong> rate.</p>
   <p>If you have a young coder (aimed at ages 8 - 16) who wants to come to the <strong>Young Coders</strong> day, please select that rate. You can accompany them at no extra charge.</p>
-  <p>If you are happy to pay extra to help support the conference, you may select one of the <strong>Supporter</strong> rates.</p>
-  <p>The sprint day is accessible to all ticket holders at no extra charge.</p>
+  <p>If you are happy to pay a little extra to help support the conference, you may select one of the <strong>Supporter</strong> rates.</p>
+  <p>All conference admission tickets include 3 days of conference and one day of sprints.</p>
   <a href="/tickets/about-our-ticket-prices/">About our ticket prices</a>
 </div>
 
@@ -34,50 +34,33 @@ title: Tickets
 
 <div class="box box_yellow">
   <h3>Ticket prices</h3>
-  <p>The sprint day is accessible to all ticket holders at no extra charge.</p>
+  <p>All tickets (except Young Coders) include all 4 days of the conference.</p>
   <table class="table">
     <thead>
-      <th scope="col">Number of days</th>
-      <th scope="col">1</th>
-      <th scope="col">2</th>
-      <th scope="col">3</th>
+      <th></th>
+      <th scope="col">Standard Rate</th>
+      <th scope="col">Supporter Rate</th>
     </thead>
     <tbody>
       <tr>
-        <th scope="row">Standard</th>
-        <td>£132</td>
-        <td>£246</td>
-        <td>£360</td>
+        <th scope="row">Corporate</th>
+        <td>£450</td>
+        <td>£570</td>
       </tr>
       <tr>
         <th scope="row">Individual</th>
-        <td>£70</td>
-        <td>£120</td>
-        <td>£204</td>
+        <td>£285</td>
+        <td>£360</td>
       </tr>
       <tr>
         <th scope="row">Unwaged</th>
-        <td>£39.60</td>
-        <td>£75</td>
-        <td>£100</td>
+        <td>£90</td>
+        <td>-</td>
       </tr>
       <tr>
         <th scope="row">Young coders (aimed at ages 8 - 16, with accompanying adult)</th>
-        <td>£6</td>
+        <td>£9</td>
         <td>-</td>
-        <td>-</td>
-      </tr>
-      <tr>
-        <th scope="row">Supporter Standard</th>
-        <td>-</td>
-        <td>-</td>
-        <td>£600</td>
-      </tr>
-      <tr>
-        <th scope="row">Supporter Individual</th>
-        <td>-</td>
-        <td>-</td>
-        <td>£260</td>
       </tr>
     </tbody>
   </table>

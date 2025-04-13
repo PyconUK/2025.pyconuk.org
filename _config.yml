@@ -25,7 +25,7 @@ cfp_closed: false
 fin_aid_open: true
 fin_aid_closed: false
 spons_prosp_avail: true
-tickets_open: false
+tickets_open: true
 schedule_ready: false
 show_sponsors: false
 show_django_girls: false
