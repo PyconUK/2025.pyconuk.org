@@ -1,0 +1,16 @@
+# Ticket prices.
+#
+# The prefix 'md_' means that the abbreviation is only suitable for use in
+# content MarkDown files.
+#
+md:
+  standard:
+    corporate: "£450"
+    individual: "£285"
+    unwaged: "£90"
+    young: "£9"
+  supporter:
+    corporate: "£570"
+    individual: "£360"
+    unwaged: "-"
+    young: "-"

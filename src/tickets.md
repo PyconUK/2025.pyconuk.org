@@ -2,6 +2,7 @@
 layout: default
 title: Tickets
 ---
+{% assign prices = site.data.prices.md %}
 {% if site.tickets_open != true %}<div class="box box_red"><p><strong>Well done, you found the tickets page, but they're not on sale yet- you'll have to wait a little longer!</strong></p></div>{% endif %}
 
 <div class="box box_red">
@@ -44,23 +45,23 @@ title: Tickets
     <tbody>
       <tr>
         <th scope="row">Corporate</th>
-        <td>£450</td>
-        <td>£570</td>
+        <td>{{ prices.standard.corporate }}</td>
+        <td>{{ prices.supporter.corporate }}</td>
       </tr>
       <tr>
         <th scope="row">Individual</th>
-        <td>£285</td>
-        <td>£360</td>
+        <td>{{ prices.standard.individual }}</td>
+        <td>{{ prices.supporter.individual }}</td>
       </tr>
       <tr>
         <th scope="row">Unwaged</th>
-        <td>£90</td>
-        <td>-</td>
+        <td>{{ prices.standard.unwaged }}</td>
+        <td>{{ prices.supporter.unwaged }}</td>
       </tr>
       <tr>
         <th scope="row">Young coders (aimed at ages 8 - 16, with accompanying adult)</th>
-        <td>£9</td>
-        <td>-</td>
+        <td>{{ prices.standard.young }}</td>
+        <td>{{ prices.supporter.young }}</td>
       </tr>
     </tbody>
   </table>
