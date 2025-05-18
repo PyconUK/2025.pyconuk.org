@@ -28,7 +28,8 @@ spons_prosp_avail: true
 tickets_open: true
 schedule_ready: false
 show_sponsors: false
-show_django_girls: false
+show_django_girls: true
+django_girls_applications_open: false
 
 # When changing the year, please change it in the title, above. We can't use vars in vars.
 con_year: 2025
