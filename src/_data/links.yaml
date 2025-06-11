@@ -20,7 +20,7 @@ md:
     mastodon: "[Mastodon (@PyConUK@fosstodon.org)](https://fosstodon.org/@PyConUK)"
     twitter: "[X(Twitter) (@PyConUK)](https://twitter.com/pyconuk)"
 
-    contactmcr: "[CONTACT](https://contactmcr.com)"
+    contactmcr: "[Contact Theatre](https://contactmcr.com)"
 
   short:
     bluesky: "[Bluesky](https://bsky.app/profile/pyconuk.org)"
@@ -29,7 +29,7 @@ md:
     mastodon: "[Mastodon](https://fosstodon.org/@PyConUK)"
     twitter: "[X(Twitter)](https://twitter.com/pyconuk)"
 
-    contactmcr: "[CONTACT](https://contactmcr.com)"
+    contactmcr: "[Contact Theatre](https://contactmcr.com)"
 
 html:
   long:
@@ -38,7 +38,7 @@ html:
     mastodon: '<a href="https://fosstodon.org/@PyConUK">Mastodon (@PyConUK@fosstodon.org)</a>'
     twitter: '<a href="https://twitter.com/pyconuk">X(Twitter) (@PyConUK)</a>'
 
-    contactmcr: '<a href="https://contactmcr.com">CONTACT</a>'
+    contactmcr: '<a href="https://contactmcr.com">Contact Theatre</a>'
 
   short:
     bluesky: '<a href="https://bsky.app/profile/pyconuk.org">Bluesky</a>'
@@ -46,4 +46,4 @@ html:
     mastodon: '<a href="https://fosstodon.org/@PyConUK">Mastodon</a>'
     twitter: '<a href="https://twitter.com/pyconuk">X(Twitter)</a>'
 
-    contactmcr: '<a href="https://contactmcr.com">CONTACT</a>'
+    contactmcr: '<a href="https://contactmcr.com">Contact Theatre</a>'
