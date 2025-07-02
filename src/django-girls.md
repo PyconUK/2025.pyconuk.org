@@ -51,12 +51,12 @@ title: Django Girls
   <img src="/images/django_girls_assist.jpg" alt="Another one of the django girls being assisted- you're not alone.">
 </figure>
 
-<a href="https://djangogirls.org/pyconuk/">
 {% if site.django_girls_applications_open == true %}
-Apply to attend Django Girls at PyCon UK {{ site.con_year }}
+[Apply to attend Django Girls at PyCon UK {{ site.con_year }}][dg-at-pycon]
 {% else %}
-More about Django Girls at PyCon UK {{ site.con_year }}
+[More about Django Girls at PyCon UK {{ site.con_year }}][dg-at-pycon]
 {% endif %}
-</a>
 
 {% endif %}
+
+[dg-at-pycon]: https://djangogirls.org/pyconuk/
