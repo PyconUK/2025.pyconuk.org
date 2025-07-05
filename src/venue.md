@@ -15,12 +15,7 @@ Parking isn't generally available, but parking for disabled visitors can be arra
 
 ### Disabled parking
 
-If you'd like access to disabled parking at the venue, please email <hires@contactmcr.com> to arrange it in advance. In your email, please mention:
-
-- that you're attending PyCon
-- the dates that you'll need to be able to park
-- your vehicle type and registration number
-- the driver's name
+We can provide parking at the venue for attendees with access needs. If this is something you need, please [contact us](https://2025.pyconuk.org/contact/)
 
 ## Accommodation
 
