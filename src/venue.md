@@ -108,12 +108,14 @@ Other options include:
 - **[Q-Park First Street]** – **20-minute walk** or **7–10 minutes by taxi**
 - **NCP Oxford Street / NCP Palace** – **10–15-minute walk** or **5–8 minutes by taxi**
 
-⚠️ Manchester's city centre is busy, especially during events. Consider park-and-ride or check for Clean Air Zone rules when planning your route.
+**NOTE:** Private **cars are prohibited** on the section of Oxford Road adjacent to Contact Theatre every day **between 9am and 6pm**, with a **£70 penalty charge** for vehicles that enter. Sections of Oxford Road are also one-way – see the Council's [map of the bus gates] for more details.
 
 [Cecil Street]: https://maps.app.goo.gl/V79v17cnSWRXctfb8
 [listed here]: https://www.estates.manchester.ac.uk/services/operationalservices/carparking/#CARPARKE
 [Q-Park Manchester Hospitals]: https://www.q-park.co.uk/en-gb/cities/manchester/manchester-hospitals/
 [Q-Park First Street]: https://www.q-park.co.uk/en-gb/cities/manchester/poi/one-first-street/
+
+[map of the bus gates]: https://www.manchester.gov.uk/info/471/tickets_and_fines/7420/bus_gates/2
 
 ### By Bus or Tram
 
