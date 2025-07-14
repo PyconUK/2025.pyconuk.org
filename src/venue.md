@@ -17,6 +17,12 @@ The site has accessible toilets, baby changing facilities, a lift to all floors,
 
 Parking isn't generally available, but parking for disabled visitors can be arranged in advance. If this is something you need, please [contact us](https://2025.pyconuk.org/contact/).
 
+### Planning your trip
+
+We've put together a shortlist of [hotels](#hotels) and [hostels](#hostels) in Manchester.
+
+There are also some tips for people travelling by [train](#by-train), [plane](#by-plane), [car](#by-car), or&nbsp;[coach](#by-coach).
+
 ## Accommodation
 
 Before choosing a place to stay, it's worth bearing in mind how far it is from the venue and (if you think you might go) to the city centre.
