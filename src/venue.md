@@ -147,14 +147,11 @@ Flying into **Manchester Airport**?
 
 ### By Bike
 
-Manchester has protected cycle lanes along Oxford Road. If you're cycling:
+You can **rent a Beryl bike** (which can be found around the city) after [downloading the Beryl app].
 
-- Bring your own bike or
-- Use a **Beryl bike or e-bike**, available across the city
+There are Dutch-style cycle lanes along Oxford Road.
 
-You'll need to [download the Beryl app] to rent a bike. Secure bike parking is available near Contact Theatre.
-
-[download the Beryl app]: https://beryl.cc/
+[downloading the Beryl app]: https://beryl.cc/
 
 ### By Canal Boat
 
