@@ -5,7 +5,9 @@ title: Venue
 
 {% assign links = site.data.links.html.long %}
 
-This year's conference is being held at {{ links.contactmcr }} in Manchester. It's on the south side of the city, close to Manchester University, with good [public transport links](https://contactmcr.com/visit/getting-here) close by.
+This year's conference is being held at {{ links.contactmcr }} in Manchester. It's on the south side of the city, close to Manchester University, with [good transport links] close by.
+
+[good transport links]: #travelling-to-manchester
 
 <a class="button block" href="https://maps.app.goo.gl/p1jnBq3zDE5Gx9bn9">View on Google Maps</a>
 
@@ -77,3 +79,78 @@ The [Malacuna Hostel] (previously known as [Hilton Chambers]) is also worth cons
 [Hilton Chambers]: https://maps.app.goo.gl/C5uXMdBcdpzUfUHm8
 
 [Northern Quarter]: https://www.visitmanchester.com/things-to-see-and-do/explore/neighbourhoods/northern-quarter/
+
+## Getting here
+
+### By Train
+
+Manchester has three major city-centre train stations:
+
+- **Manchester Piccadilly** – a **20-minute walk, 10 minutes by taxi**, or **10–15 minutes by bus or Beryl bike**
+- **Manchester Oxford Road** – a **10-minute walk** to Contact Theatre, or **3 minutes by taxi**
+- **Manchester Victoria** – approximately **30 minutes by public transport** or **15–20 minutes by taxi**
+
+To get to Contact Theatre from **Piccadilly**, you can:
+
+- Take a **bus from Piccadilly Gardens** towards Oxford Road and get off at the **University of Manchester**
+- Rent a **Beryl bike or e-bike**
+- Take a **taxi or rideshare** directly to the venue
+
+### By Car
+
+**Contact Theatre does not have public parking**. The adjacent car park is for **permit holders only**, but nearby options include:
+
+- **University of Manchester Cecil Street** car park – **5-minute walk** or **2-minute taxi ride**
+- **Q-Park Manchester Hospitals** – **10–15-minute walk** or **5–7 minutes by taxi**
+- **Q-Park First Street** – **15–20-minute walk** or **7–10 minutes by taxi**
+- **NCP Oxford Street / NCP Palace** – **10–15-minute walk** or **5–8 minutes by taxi**
+
+⚠️ Manchester's city centre is busy, especially during events. Consider park-and-ride or check for Clean Air Zone rules when planning your route.
+
+### By Bus or Tram
+
+Manchester has an extensive and accessible public transport network. Many buses run along Oxford Road, close to Contact Theatre, including the 143, 142, and 43.
+
+- **Buses:** Get off at the University of Manchester stop, just a short distance from Contact Theatre.
+
+- **Trams:** Trams (Metrolink) don't stop directly at Oxford Road, but you can take a tram to Deansgate-Castlefield or St Peter's Square, then connect by bus or taxi (approx. 5–10 minutes).
+
+You can plan your journey with [Transport for Greater Manchester], which offers real-time route planning and accessibility info.
+
+[Transport for Greater Manchester]: https://tfgm.com/
+
+### By Coach
+
+**National Express** and **Megabus** coaches arrive at **Manchester Coach Station (Chorlton Street)**.
+
+It's about a **25-minute walk**, or **8–10 minutes by taxi**.
+
+You can also take a **bus from nearby Portland Street** to the **University of Manchester stop**.
+
+### By Plane
+
+Flying into **Manchester Airport**?
+
+- Take a **direct train** to Oxford Road or Piccadilly (15–20 minutes), followed by a **taxi or bus to the venue**
+- The **Metrolink tram** connects the airport with the city centre in around **35–45 minutes**
+- A **taxi or rideshare** from the airport takes around **25–30 minutes**, depending on traffic
+
+### By Bike
+
+Manchester has protected cycle lanes along Oxford Road. If you're cycling:
+
+- Bring your own bike or
+- Use a **Beryl bike or e-bike**, available across the city
+
+You'll need to [download the Beryl app] to rent a bike. Secure bike parking is available near Contact Theatre.
+
+[download the Beryl app]: https://beryl.cc/
+
+### By Canal Boat
+
+Arriving by canal? You can moor at **Castlefield Basin**, which is about a:
+
+- **25-minute walk** to Contact Theatre
+- **8-minute taxi ride** or **15–20 minutes by bus or Beryl bike**
+
+Let us know if you're joining us by water — we'd love to hear about it!
