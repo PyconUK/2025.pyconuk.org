@@ -98,14 +98,22 @@ To get to Contact Theatre from **Piccadilly**, you can:
 
 ### By Car
 
-**Contact Theatre does not have public parking**. The adjacent car park is for **permit holders only**, but nearby options include:
+**Contact Theatre does not have public parking**. The adjacent car park is for **permit holders only**, but Contact Theatre recommend:
 
-- **University of Manchester Cecil Street** car park – **5-minute walk** or **2-minute taxi ride**
-- **Q-Park Manchester Hospitals** – **10–15-minute walk** or **5–7 minutes by taxi**
-- **Q-Park First Street** – **15–20-minute walk** or **7–10 minutes by taxi**
+- **University of Manchester's [Cecil Street] car park** – **5-minute walk** or **2-minute taxi ride** (tariffs are [listed here])
+- **[Q-Park Manchester Hospitals]** – **10–15-minute walk** or **5–7 minutes by taxi**
+
+Other options include:
+
+- **[Q-Park First Street]** – **20-minute walk** or **7–10 minutes by taxi**
 - **NCP Oxford Street / NCP Palace** – **10–15-minute walk** or **5–8 minutes by taxi**
 
 ⚠️ Manchester's city centre is busy, especially during events. Consider park-and-ride or check for Clean Air Zone rules when planning your route.
+
+[Cecil Street]: https://maps.app.goo.gl/V79v17cnSWRXctfb8
+[listed here]: https://www.estates.manchester.ac.uk/services/operationalservices/carparking/#CARPARKE
+[Q-Park Manchester Hospitals]: https://www.q-park.co.uk/en-gb/cities/manchester/manchester-hospitals/
+[Q-Park First Street]: https://www.q-park.co.uk/en-gb/cities/manchester/poi/one-first-street/
 
 ### By Bus or Tram
 
