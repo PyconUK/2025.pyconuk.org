@@ -7,7 +7,7 @@ title: Venue
 
 This year's conference is being held at {{ links.contactmcr }} in Manchester. It's on the south side of the city, close to Manchester University, with [good transport links] close by.
 
-[good transport links]: #travelling-to-manchester
+[good transport links]: #getting-here
 
 <a class="button block" href="https://maps.app.goo.gl/p1jnBq3zDE5Gx9bn9">View on Google Maps</a>
 
