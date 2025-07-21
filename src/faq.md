@@ -7,7 +7,8 @@ title: FAQs
 <p>If a question isn't covered here, you can <a href="/contact/">get in touch</a> and ask.
 
 <p><strong>Can I volunteer to help?</strong> Indeed you can! The conference relies on a cast of wonderful volunteers- people just like you. There are always lots of tasks available, big and small, if you want to make a contribution. Maybe you fancy helping to record the talks? Perhaps your inner MC is itching to chair a session? Or how about offering to assist with the reception desk?<br />
-<em>If you do want to help</em>, find one of our friendly volunteers, or ask in the #volunteers discord channel. You can also select that you're willing to be a volunteer when you buy your ticket and you'll be contacted. Don't worry, it's not a binding commitment.</p>
+<em>If you do want to help</em>, send an email to {{ "volunteers@uk.python.org" | create_mailto_link }} and we'll add you to our #volunteers disord channel. You can also select that you're willing to be a volunteer when you buy your ticket and you'll be contacted. During the conference itself, you can find one of our friendly on-site volunteers who will be happy to put you in
+touch with our volunteers coordinator.  Don't worry, it's not a binding commitment!</p>
 
 <p><strong>What is Python?</strong> <a href="https://docs.python.org/3/faq/general.html#what-is-python">The Python website</a> has lots of helpful details on Python, including links to tutorials.</p>
 
