@@ -23,6 +23,8 @@ We've put together a shortlist of [hotels](#hotels) and [hostels](#hostels) in M
 
 There are also some tips for people travelling by [train](#by-train), [plane](#by-plane), [car](#by-car), or&nbsp;[coach](#by-coach).
 
+**Don't forget that if you're travelling from outside the UK and don't possess a UK passport you are likely to need an [Electronic Travel Authorisation or visa](https://www.gov.uk/eta).**
+
 ## Accommodation
 
 Before choosing a place to stay, it's worth bearing in mind how far it is from the venue and (if you think you might go) to the city centre.
