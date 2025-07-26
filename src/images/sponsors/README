@@ -9,7 +9,12 @@ Headliner: 180
 Gold: 160
 Silver: 150
 Bronze: 140
+Other: 130
 
 Examples:
 Resize with imagemagick for a silver sponsor (height 150):
-convert -resize 300X150  source.png dest.jpg
+convert -resize 300X150  source.png dest.png
+
+Note: imagemagick can also convert between formats, so you might want to grab an SVG and convert it in some cases.
+      Remember to use the -resize <widthxheight> argument in this case, and check you didn't deform it afterwards.
+      One way to check the relative dimensions is to run (to PNG) without size to get the ratio of width to height.

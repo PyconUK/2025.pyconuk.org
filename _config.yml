@@ -27,7 +27,7 @@ fin_aid_closed: true
 spons_prosp_avail: true
 tickets_open: true
 schedule_ready: false
-show_sponsors: false
+show_sponsors: true
 show_django_girls: true
 django_girls_applications_open: true
 
