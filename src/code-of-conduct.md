@@ -49,7 +49,7 @@ Your concern will be heard in confidence, taken seriously, and dealt with accord
 Conference staff - volunteers and organisers - will be on hand throughout the conference. Any concern, whatever it is, will be immediately passed on to a member of the conference committee. The committee will investigate promptly and if necessary will take appropriate action. This could include:
 
 *   asking a violator of the Code of Conduct to leave the event immediately (no refunds will be forthcoming)
-*   passing on details of the incident to the [Python Software Foundation](https://web.archive.org/web/20150607144447/https://www.python.org/psf)
+*   passing on details of the incident to the [Python Software Foundation](https://www.python.org/psf-landing/)
 *   informing the police about the incident
 
 We will provide you with a written statement of the outcome, whatever it is.
