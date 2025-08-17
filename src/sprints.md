@@ -8,6 +8,14 @@ Almost all open source software collaboration takes place remotely and sometimes
 at a big distance: code sprints are an opportunity to work together in the same
 place.
 
+## Sprint Projects
+
+- [Beeware](https://github.com/beeware/beeware.github.io/issues)
+- [Django](https://github.com/django/django)
+- [Django Debug Toolbar](https://github.com/django-commons/django-debug-toolbar/issues)
+- [CPython](https://github.com/python/cpython/issues/)
+- Sustainability Project (Manchester University)
+
 ## What happens at a sprint?
 
 Developers work together on a given open source project. To name just a few
@@ -20,7 +28,7 @@ possibilities of what this can look like it could be:
 
 ## What does someone need to contribute?
 
-You can contribute to a project you have already contributed to: the code sprint 
+You can contribute to a project you have already contributed to: the code sprint
 presents an opportunity to meet people you have perhaps only ever spoken to
 online.
 
