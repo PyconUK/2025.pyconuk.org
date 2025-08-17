@@ -12,27 +12,39 @@ place.
 
 ### Community Projects
 
-- [Black Python Devs](https://github.com/BlackPythonDevs/blackpythondevs.github.io/issues)
-- [PyLadies](https://github.com/pyladies)
-- [Render Engine](https://github.com/render-engine/render-engine/issues)
+- [Black Python Devs](https://github.com/BlackPythonDevs/blackpythondevs.github.io/issues) - Black Python Devs is an online-first community for Python devlopers who identify as Black.
+
+- [PyLadies](https://github.com/pyladies) - PyLadies is a global mentorship group focused on helping more marginalized genders become active participants & leads in the Python open-source community.
+
+- [Render Engine](https://github.com/render-engine/render-engine/issues) - Render Engine is a Python Static Site Generator built with flexibility prioritized.
 
 ### Web Development Projects
 
-- [Django](https://github.com/django/django)
-- [Django Debug Toolbar](https://github.com/django-commons/django-debug-toolbar/issues)
-- [Beeware](https://github.com/beeware/beeware.github.io/issues) - It includes frontend, mobile and packaging.
+- [Django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+
+- [Django Debug Toolbar](https://github.com/django-commons/django-debug-toolbar/issues) - Django Debug Toolbar is a configurable set of panels that display various debug information about the current request/response.
+
+- [Beeware](https://github.com/beeware/beeware.github.io/issues) - BeeWare makes it easy to build and distribute GUI applications using pure Python. It includes frontend, mobile and packaging.
 
 ### Data Science / Scientific
 
-- [pandas](https://github.com/pandas-dev/pandas)
-- [NumPy](https://github.com/numpy/numpy)
-- [SymPy](https://github.com/sympy/sympy/issues)
-- [Spyder](https://github.com/spyder-ide/spyder/issues)
-- [SciPy](https://github.com/scipy/scipy/issues)
+- [pandas](https://github.com/pandas-dev/pandas) - Pandas is a flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
 
-### Language/Core
+- [NumPy](https://github.com/numpy/numpy) - NumPy is a fundamental package for scientific computing with Python.
 
-- [CPython](https://github.com/python/cpython/issues/)
+- [SymPy](https://github.com/sympy/sympy/issues) - SymPy is a computer algebra system written in pure Python.
+
+- [Spyder](https://github.com/spyder-ide/spyder/issues) - SPYDER(Scientific Python Development Environment) is an open-source cross-platform integrated development environment (IDE) for scientific programming in the Python language.
+
+- [SciPy](https://github.com/scipy/scipy/issues) - SciPy is a free and open-source Python library used for scientific and technical computing. It provides utility functions for optimization, stats and signal processing.
+
+### Language / Core
+
+- [CPython](https://github.com/python/cpython/issues/) - The Python programming language.
+
+### Libraries
+
+- [Pillow](https://github.com/python-pillow/Pillow) - Pillow is the friendly Python Imaging Library(PIL) fork that allows you to manipulate images and perform basic image processing tasks.
 
 ### Sustainability
 
