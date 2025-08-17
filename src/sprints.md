@@ -10,10 +10,32 @@ place.
 
 ## Sprint Projects
 
-- [Beeware](https://github.com/beeware/beeware.github.io/issues)
+### Community Projects
+
+- [Black Python Devs](https://github.com/BlackPythonDevs/blackpythondevs.github.io/issues)
+- [PyLadies](https://github.com/pyladies)
+- [Render Engine](https://github.com/render-engine/render-engine/issues)
+
+### Web Development Projects
+
 - [Django](https://github.com/django/django)
 - [Django Debug Toolbar](https://github.com/django-commons/django-debug-toolbar/issues)
+- [Beeware](https://github.com/beeware/beeware.github.io/issues) - It includes frontend, mobile and packaging.
+
+### Data Science / Scientific
+
+- [pandas](https://github.com/pandas-dev/pandas)
+- [NumPy](https://github.com/numpy/numpy)
+- [SymPy](https://github.com/sympy/sympy/issues)
+- [Spyder](https://github.com/spyder-ide/spyder/issues)
+- [SciPy](https://github.com/scipy/scipy/issues)
+
+### Language/Core
+
 - [CPython](https://github.com/python/cpython/issues/)
+
+### Sustainability
+
 - Sustainability Project (Manchester University)
 
 ## What happens at a sprint?
