@@ -65,7 +65,7 @@ Yes :)
 
 - [Django Debug Toolbar](https://github.com/django-commons/django-debug-toolbar/issues) - Django Debug Toolbar is a configurable set of panels that display various debug information about the current request/response.
 
-- [BeeWare](https://github.com/beeware/beeware.github.io/issues) - Beeware makes it easy to build and distribute GUI applications using pure Python. It includes frontend, mobile and packaging.
+- [BeeWare](https://github.com/beeware/beeware.github.io/issues) - BeeWare makes it easy to build and distribute GUI applications using pure Python. It includes frontend, mobile and packaging.
 
 ### Data Science / Scientific
 
