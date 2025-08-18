@@ -91,4 +91,4 @@ Yes :)
 
 - Sustainability Project (Manchester University)
 
-Want to run a sprint for your project? Reach out on Discord or send us an email at pyconuk@uk.python.org?
+## Want to run a sprint for your project? Kindly reach out to us on Discord or send us an email at pyconuk@uk.python.org
