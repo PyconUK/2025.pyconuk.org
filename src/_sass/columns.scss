@@ -89,6 +89,24 @@
     }
   }
 
+  &_sponsor {
+    border-color: white;
+
+    border: 0px solid;
+    border-radius: 0px;
+    padding: 10px;
+
+    float: left;
+
+    h2, h3, h4 {
+      color: darken(black, 25%);
+    }
+  }
+
+  &_sponsor_group {
+    display: flow-root;
+  }
+
   figure {
     float: right;
     max-width: 250px;
