@@ -89,9 +89,7 @@ Yes :)
 
 ### Sustainability
 
-- **Sustainability Projects** (University of Manchester). The key project will be the **[Research Software Quality Kit][RSQKIT]** RSQKit is - part of the [EVERSE][EVERSE] project - which collects best practices for improving research software.  We'll focus on Green Software Sustainability content & tools, including recent work on [Green MetaData][SSIBLOG_GREENMD].
-
-The sprint leader is [Michael Sparks][MS_LINK] ( [University Of Manchester][UNIMAN] , [Physics][PHYSICS] & [eScience Lab][ESCIENCE], exBBC R&D ). He created the original BBC micro:bit prototype (which was distributed to schools around the UK), founded the Kamaelia project, helped co-found PyconUK in 2007, and is passionate about mentoring, on-boarding, and knowledge sharing.
+- **Sustainability Projects** (University of Manchester). The key project will be the **[Research Software Quality Kit][RSQKIT]** RSQKit is - part of the [EVERSE][EVERSE] project - which collects best practices for improving research software.  We'll focus on Green Software Sustainability content & tools, including recent work on [Green MetaData][SSIBLOG_GREENMD]. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  The sprint leader is [Michael Sparks][MS_LINK] ( [University Of Manchester][UNIMAN] , [Physics][PHYSICS] & [eScience Lab][ESCIENCE], exBBC R&D ). He created the original BBC micro:bit prototype (which was distributed to schools around the UK), founded the Kamaelia project, helped co-found PyconUK in 2007, and is passionate about mentoring, on-boarding, and knowledge sharing.
 
 [RSQKIT]: https://github.com/EVERSE-ResearchSoftware/RSQKit
 [EVERSE]: https://everse.software/
