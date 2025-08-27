@@ -34,7 +34,9 @@ django_girls_applications_open: true
 
 # When changing the year, please change it in the title, above. We can't use vars in vars.
 con_year: 2025
+con_startDate: "2025-09-19"
 con_start: Friday 19th September
+con_endDate: "2025-09-22"
 con_finish: Monday 22nd September
 con_financial_assistance_deadline: "17:00 (Europe/London) on Friday, 11th July"
 cfp_end: Sunday 11th May 2025

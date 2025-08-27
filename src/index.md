@@ -2,6 +2,31 @@
 layout: default
 ---
 
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "{{ site.title }}",
+    "startDate": "{{ site.con_startDate }}",
+    "endDate": "{{ site.con_endDate }}",
+    "eventStatus": "EventScheduled",
+    "location": {
+        "@type": "Place",
+        "name": "Contact Theatre",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Oxford Road",
+            "addressLocality": "Manchester",
+            "postalCode": "M15 6JA",
+            "addressCountry": "GB"
+        }
+    },
+    "image": [
+        "{{ '/images/red_snake.png' | absolute_url }}"
+    ]
+}
+</script>
+
 {% assign links = site.data.links.html.long %}
 
 ## PyCon UK will be at {{ links.contactmcr }} from {{ site.con_start }} to {{ site.con_finish }} {{ site.con_year }}.
