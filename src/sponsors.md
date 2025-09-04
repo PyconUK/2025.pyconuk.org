@@ -51,6 +51,12 @@ title: Sponsors
       The Python Software Foundation is an organization devoted to advancing open source technology related to the Python programming language.
     </p>
   </div>
+  <div class="box box_sponsor" style="width: 309px">
+    <a href="https://www.djangoproject.com/fundraising/"><img height="130" width="309" src="/images/sponsors/Django.png" alt="Logo of Django Software Foundation, a supporter of PyCon UK {{ site.con_year }}" title="Django Software Foundation"></a>
+    <p>
+      The Django Software Foundation is a non-profit organisation which works to promote, support, and advance the Django Web framework.
+    </p>
+  </div>
 </div>
 
 <div><!-- Fix the footer with the floats --></div>
