@@ -25,12 +25,17 @@ title: Sponsors
   <h3>Bronze sponsors</h3>
   <a href="#"><img height="140" width="140" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a sponsor of PyCon UK {{ site.con_year }}" title="Snakeholder"></a>
 </div>
-
-<div class="box box_red">
-  <h3>Other Supporters</h3>
-  <a href="#"><img height="130" width="130" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a sponsor of PyCon UK {{ site.con_year }}" title="Snakeholder"></a>
-</div>
 -->
+
+<div class="box box_red box_sponsor_group">
+  <h3>Other Supporters</h3>
+  <div class="box box_sponsor" style="width: 220px">
+    <a href="https://www.chronicinsanity.co.uk/"><img height="130" width="130" src="/images/sponsors/Chronic_Insanity.png" alt="Logo of Chronic Insanity, a supporter of PyCon UK {{ site.con_year }}" title="Chronic Insanity"></a>
+    <p>
+      Chronic Insanity is a Nottingham-based theatre company that creates and facilitates live events in a variety of traditional, found, and digital spaces.
+    </p>
+  </div>
+</div>
 
 <div class="box box_gray box_sponsor_group">
   <h3>Grants</h3>
