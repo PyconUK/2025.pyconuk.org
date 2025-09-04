@@ -20,6 +20,13 @@ title: Sponsors
       The Bennett Institute for Applied Data Science, at the University of Oxford are a multidisciplinary team of software developers, clinicians and academic researchers, who produce academic <a href="https://www.bennett.ox.ac.uk/papers/">research papers</a>, but we also use the same skills to build live, interactive, data-driven tools and services such as <a href="https://openprescribing.net/">OpenPrescribing</a>, <a href="https://www.bennett.ox.ac.uk/trialstracker/">TrialsTracker</a> and <a href="https://www.opensafely.org/">OpenSAFELY</a>. We produce real, practical policy insights on how data can be used to improve lives.
     </p>
   </div>
+
+  <div class="box box_sponsor" style="width: 396px">
+    <a href="https://TechAtBloomberg.com/python"><img height="160" width="396" src="/images/sponsors/bloomberg.png" alt="Logo of Bloomberg, a sponsor of PyconUK {{ site.con_year }}" title="Bloomberg"></a>
+    <p>
+      Bloomberg is building the world's most trusted information network for financial professionals. Our 9,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal to solve complex, real-world problems. We trust our teams to choose the right technologies for the job, and, at Bloomberg, the answer is often Python. We employ an active community of 4,000+ Python developers who have their hands in everything from financial analytics and data science to contributing to open source technologies like Project Jupyter. Bloomberg is proud to be a Visionary Sponsor of the Python Software Foundation and sponsor of many Python community events around the world.
+    </p>
+  </div>
 </div>
 
 <!--
