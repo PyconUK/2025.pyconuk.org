@@ -10,6 +10,7 @@ Gold: 160
 Silver: 150
 Bronze: 140
 Other: 130
+Grant: 130
 
 Examples:
 Resize with imagemagick for a silver sponsor (height 150):
