@@ -10,12 +10,19 @@ title: Sponsors
   <h3>Headline sponsor</h3>
   <p><a href="#"><img height="180" width="180" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, headline sponsor of PyconUK {{ site.con_year }}" title="Snakeholder"></a></p>
 </div>
+-->
 
-<div class="box box_yellow">
+<div class="box box_yellow box_sponsor_group">
   <h3>Gold sponsors</h3>
-  <a href="#"><img height="160" width="160" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a sponsor of PyconUK {{ site.con_year }}" title="Snakeholder"></a>
+  <div class="box box_sponsor" style="width: 355px">
+    <a href="https://www.bennett.ox.ac.uk/"><img height="160" width="355" src="/images/sponsors/Bennett_Institute.svg" alt="Logo of Bennett Institute, a sponsor of PyconUK {{ site.con_year }}" title="Bennett Institute"></a>
+    <p>
+      The Bennett Institute for Applied Data Science, at the University of Oxford are a multidisciplinary team of software developers, clinicians and academic researchers, who produce academic <a href="https://www.bennett.ox.ac.uk/papers/">research papers</a>, but we also use the same skills to build live, interactive, data-driven tools and services such as <a href="https://openprescribing.net/">OpenPrescribing</a>, <a href="https://www.bennett.ox.ac.uk/trialstracker/">TrialsTracker</a> and <a href="https://www.opensafely.org/">OpenSAFELY</a>. We produce real, practical policy insights on how data can be used to improve lives.
+    </p>
+  </div>
 </div>
 
+<!--
 <div class="box box_silver">
   <h3>Silver sponsors</h3>
   <a href="#"><img height="150" width="150" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a sponsor of PyCon UK {{ site.con_year }}" title="Snakeholder"></a>
