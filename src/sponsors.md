@@ -21,8 +21,8 @@ title: Sponsors
     </p>
   </div>
 
-  <div class="box box_sponsor" style="width: 698px">
-    <a href="https://TechAtBloomberg.com/python"><img height="160" width="698" src="/images/sponsors/bloomberg.png" alt="Logo of Bloomberg, a sponsor of PyconUK {{ site.con_year }}" title="Bloomberg"></a>
+  <div class="box box_sponsor" style="width: 396px">
+    <a href="https://TechAtBloomberg.com/python"><img height="160" width="396" src="/images/sponsors/bloomberg.png" alt="Logo of Bloomberg, a sponsor of PyconUK {{ site.con_year }}" title="Bloomberg"></a>
     <p>
       Bloomberg is building the world's most trusted information network for financial professionals. Our 9,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal to solve complex, real-world problems. We trust our teams to choose the right technologies for the job, and, at Bloomberg, the answer is often Python. We employ an active community of 4,000+ Python developers who have their hands in everything from financial analytics and data science to contributing to open source technologies like Project Jupyter. Bloomberg is proud to be a Visionary Sponsor of the Python Software Foundation and sponsor of many Python community events around the world.
     </p>
@@ -32,8 +32,8 @@ title: Sponsors
 <div class="box box_silver box_sponsor_group">
   <h3>Silver sponsors</h3>
 
-  <div class="box box_sponsor" style="width: 396px">
-    <a href="https://www.jetbrains.com/"><img height="150" width="396" src="/images/sponsors/jetbrains.png" alt="Logo of Jetbrains, a sponsor of PyCon UK {{ site.con_year }}" title="Jetbrains"></a>
+  <div class="box box_sponsor" style="width: 698px">
+    <a href="https://www.jetbrains.com/"><img height="150" width="698" src="/images/sponsors/jetbrains.svg" alt="Logo of Jetbrains, a sponsor of PyCon UK {{ site.con_year }}" title="Jetbrains"></a>
     <p>
       JetBrains is a global software vendor dedicated to building intelligent, productivity-enhancing tools that help developers, data professionals, and teams do their best work. Our flagship Python IDE, PyCharm, is trusted by over 1 million Python developers worldwide. Designed for web developers, data scientists, and AI/ML engineers, PyCharm combines a powerful feature set with a modern AI-enhanced development experience.
     </p>
