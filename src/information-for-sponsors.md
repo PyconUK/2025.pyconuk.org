@@ -30,6 +30,28 @@ title: Information for sponsors
   </p>
 </div>
 
+<div class="box box_blue">
+  <h3>Materials</h3>
+
+  <p>
+    You may arrange to have materials delivered to the venue in advance. Please address all consignments as follows:
+  </p>
+
+  <p>
+    Hires<br />
+    PyCon UK {{ site.con_year }}<br />
+    <strong>&lt;your company's name&gt;</strong><br />
+    Contact Theatre<br />
+    Oxford Road<br />
+    Manchester<br />
+    M15 6JA
+  </p>
+
+  <p>
+    Please note that the venue is closed on Sundays and Mondays.
+  </p>
+</div>
+
 <div class="box box_red">
   <h3>Banners</h3>
 
