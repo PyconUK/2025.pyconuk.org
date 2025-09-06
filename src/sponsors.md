@@ -25,7 +25,7 @@ title: Sponsors
     <!-- A bit shorter than gold sponsors are intended to be, because the logo is otherwise too wide on narrow screens (e.g. some phones) -->
     <a href="https://TechAtBloomberg.com/python"><img height="145" width="360" src="/images/sponsors/bloomberg.png" alt="Logo of Bloomberg, a sponsor of PyconUK {{ site.con_year }}" title="Bloomberg"></a>
     <p>
-      Bloomberg is building the world's most trusted information network for financial professionals. Our 9,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal to solve complex, real-world problems. We trust our teams to choose the right technologies for the job, and, at Bloomberg, the answer is often Python. We employ an active community of 4,000+ Python developers who have their hands in everything from financial analytics and data science to contributing to open source technologies like Project Jupyter. Bloomberg is proud to be a Visionary Sponsor of the Python Software Foundation and sponsor of many Python community events around the world.
+      Bloomberg is building the world's most trusted information network for financial professionals. Our 9,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal to solve complex, real-world problems. We employ an active community of 4,000+ Python developers who have their hands in everything from financial analytics and data science to contributing to open source technologies like Project Jupyter. Bloomberg is proud to be a Visionary Sponsor of the Python Software Foundation and sponsor of many Python community events around the world.
     </p>
   </div>
 </div>
