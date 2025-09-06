@@ -4,13 +4,15 @@ Try to keep the size down to about 20K if possible, by resizing and using tools 
 Also, try to keep the image resolution close to that used in the sponsors page.
 
 Width should be scaled relative to height to keep the aspect ratio.
-Heights should be:
+Heights should ideally be:
 Headliner: 180
 Gold: 160
 Silver: 150
 Bronze: 140
 Other: 130
 Grant: 130
+
+However, the maximum width should be 360 in order to avoid running into problems with narrow phone screens.
 
 Examples:
 Resize with imagemagick for a silver sponsor (height 150):
