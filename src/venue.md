@@ -118,13 +118,16 @@ There are a lot of other choices if none of those take your fancy. This [list of
 
 ### Hostels
 
-The [Manchester YHA] is in a nice location. It's a 40 minute walk to the venue, 20 minutes to Oxford Road station, 30 minutes to Piccadilly station, and 35 minutes to Victoria station.
+The [Manchester YHA] is in a nice location. It's a [40 minute walk][yha map] to the venue, 20 minutes to Oxford Road station, 30 minutes to Piccadilly station, and 35 minutes to Victoria station.
 
-The [Malacuna Hostel] (previously known as [Hilton Chambers]) is also worth considering. It's on the edge of Manchester's [Northern Quarter], which is where you'll find an eclectic mix of shops, plenty of bars, and lots of restaurants (it can be quite lively in the evenings). It's on the far side of the city centre from the venue, so a 40 minute walk away (or 10 minutes on a Beryl bike). But it's only an 11 minute walk to Piccadilly station, or 12 minutes to Victoria station.
+The [Malacuna Hostel] (previously known as [Hilton Chambers]) is also worth considering. It's on the edge of Manchester's [Northern Quarter], which is where you'll find an eclectic mix of shops, plenty of bars, and lots of restaurants (it can be quite lively in the evenings). It's on the far side of the city centre from the venue, so a [40 minute walk away][malacuna map] (or 10 minutes on a Beryl bike). But it's only an 11 minute walk to Piccadilly station, or 12 minutes to Victoria station.
 
 [Manchester YHA]: https://www.yha.org.uk/hostel/yha-manchester
+[yha map]: https://maps.app.goo.gl/gZ6tdiXH4AkqPuDTA
+
 [Malacuna Hostel]: https://www.smartrental.com/en/malacuna/manchester/
 [Hilton Chambers]: https://maps.app.goo.gl/C5uXMdBcdpzUfUHm8
+[malacuna map]: https://maps.app.goo.gl/mgnDNiNmLsZ2Fd4QA
 
 [Northern Quarter]: https://www.visitmanchester.com/things-to-see-and-do/explore/neighbourhoods/northern-quarter/
 
