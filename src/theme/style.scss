@@ -50,6 +50,12 @@ a {
   @include link_styles($darkblue, 0.3);
 }
 
+span.warning {
+  padding-inline: 0.2em;
+
+  background: $yellow;
+}
+
 .button {
   border-radius: 2px;
   padding: $default-padding / 2 $default-padding;

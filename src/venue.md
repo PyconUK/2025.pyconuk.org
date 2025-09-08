@@ -17,7 +17,7 @@ We've put together a shortlist of [hotels](#hotels) and [hostels](#hostels) in M
 
 There are also some tips for people travelling by [train](#by-train), [plane](#by-plane), [car](#by-car), or&nbsp;[coach](#by-coach).
 
-**Don't forget that if you're travelling from outside the UK and don't possess a UK passport you are likely to need an [Electronic Travel Authorisation or visa](https://www.gov.uk/eta).**
+Don't forget that <span class="warning">**if you're travelling from outside the UK**</span> and don't possess a UK passport you are <span class="warning">likely to need an [Electronic Travel Authorisation or visa](https://www.gov.uk/eta)</span>.
 
 ### Accessibility
 
@@ -159,7 +159,7 @@ Other options include:
 - **[Q-Park First Street]** – **20-minute walk** or **7–10 minutes by taxi**
 - **NCP Oxford Street / NCP Palace** – **10–15-minute walk** or **5–8 minutes by taxi**
 
-**NOTE:** Private **cars are prohibited** on the section of Oxford Road adjacent to Contact Theatre every day **between 9am and 6pm**, with a **£70 penalty charge** for vehicles that enter. Sections of Oxford Road are also one-way – see the Council's [map of the bus gates] for more details.
+**NOTE:** Private <span class="warning">**cars are prohibited** on the section of Oxford Road adjacent to Contact Theatre every day **between 9am and 6pm**, with a **£70 penalty charge**</span> for vehicles that enter. Sections of Oxford Road are also one-way – see the Council's [map of the bus gates] for more details.
 
 [Cecil Street]: https://maps.app.goo.gl/V79v17cnSWRXctfb8
 [listed here]: https://www.estates.manchester.ac.uk/services/operationalservices/carparking/#CARPARKE
