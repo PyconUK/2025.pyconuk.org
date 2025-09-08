@@ -75,9 +75,9 @@ Most hotels are within a 20-30 minute walk, but you can also use taxis, buses, o
 
 There are a couple of hotels just over a 10 minute walk from the venue:
 
-- [Travelodge (Upper Brook Street)] is a [12 minute walk][travelodge map] to the east of the venue. While it's nearby, note that if you'd like to venture into the city centre during your stay that it's not quite so well located. For those arriving by train, it's a 30 minute walk from Manchester Piccadilly station.
+- [Travelodge (Upper Brook Street)] is a [12 minute walk][travelodge map] to the east of the venue. While it's nearby, note that if you'd like to venture into the city centre during your stay that it's not quite so well located. For those arriving by train, it's a 30 minute walk (or a 5 minute taxi ride) from Manchester Piccadilly station.
 
-- [Hyatt Regency] (4 star, so more expensive) is [a similar distance away][hyatt map] from the venue, but is closer to the city. It's a 20 minute walk from Piccadilly station.
+- [Hyatt Regency] (4 star, so more expensive) is [a similar distance away][hyatt map] from the venue, but is closer to the city. It's a 20 minute walk (or 5 minute taxi ride) from Piccadilly station.
 
 [Travelodge (Upper Brook Street)]: https://www.travelodge.co.uk/hotels/523/Manchester-Upper-Brook-Street-hotel
 [travelodge map]: https://maps.app.goo.gl/Ki1GoXWb5GoNyFs27
