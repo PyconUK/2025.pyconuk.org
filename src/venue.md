@@ -8,6 +8,8 @@ title: The Venue
 This year's conference is being held at {{ links.contactmcr }} in Manchester. It's on the south side of the city, close to Manchester University, with [good transport links] close by.
 
 [good transport links]: #getting-here
+[buses]: /local-info#on-the-buses
+[trams]: /local-info#on-the-trams
 
 <a class="button block" href="https://maps.app.goo.gl/p1jnBq3zDE5Gx9bn9">View on Google Maps</a>
 
@@ -69,7 +71,7 @@ And on the Second Floor:
 
 Before choosing a place to stay, it's worth bearing in mind how far it is from the venue and (if you think you might go) to the city centre.
 
-Most hotels are within a 20-30 minute walk, but you can also use taxis, buses, or hop on a "Beryl bike" (Manchester's bike hire scheme).
+Most hotels are within a 20-30 minute walk of the venue, but you can also use taxis, [buses], or hop on a "Beryl bike" (Manchester's bike hire scheme).
 
 ### Hotels
 
@@ -141,6 +143,8 @@ Manchester has three major city-centre train stations:
 - **Manchester Oxford Road** – a **10-minute walk** to Contact Theatre, or **3 minutes by taxi**
 - **Manchester Victoria** – approximately **30 minutes by public transport** or **15–20 minutes by taxi**
 
+If travelling by bus, see our [tips on using Manchester's buses][buses].
+
 ### By Car
 
 **Contact Theatre does not have public parking**. The adjacent car park is for **permit holders only**, but Contact Theatre recommend:
@@ -164,15 +168,16 @@ Other options include:
 
 ### By Bus or Tram
 
-Manchester has an extensive and accessible public transport network. Many buses run along Oxford Road, close to Contact Theatre, including the 143, 142, and 43.
+Manchester has an extensive and accessible public transport network.
 
-- **Buses:** Get off at the University of Manchester stop, just a short distance from Contact Theatre.
+- **Buses:** Many buses run along Oxford Road and stop at one of the University of Manchester's stops, which are close to Contact Theatre. See our [tips on using Manchester's bus network][buses] for more details.
 
-- **Trams:** Trams (Metrolink) don't stop directly at Oxford Road, but you can take a tram to Deansgate-Castlefield or St Peter's Square, then connect by bus or taxi (approx. 5–10 minutes).
+- **Trams:** Trams (Metrolink) don't stop close to the venue, but you can take a tram to Deansgate-Castlefield or St Peter's Square, then connect [by bus][buses] or taxi (approx. 5–10 minutes). See our [tips on using the trams][trams].
 
-You can plan your journey with [Transport for Greater Manchester], which offers real-time route planning and accessibility info.
+You can plan your journey with [Transport for Greater Manchester], which offers real-time route planning and accessibility info (we recommend their [Bee Network app]).
 
 [Transport for Greater Manchester]: https://tfgm.com/
+[Bee Network app]: https://tfgm.com/tickets-and-passes/ways-to-pay/bee-network-mobile-app
 
 ### By Coach
 
@@ -186,9 +191,9 @@ You can also take a **bus from nearby Portland Street** to the **University of M
 
 Flying into **Manchester Airport**?
 
-- Take a **direct train** to Oxford Road or Piccadilly (15–20 minutes), followed by a **taxi or bus to the venue**
-- The **Metrolink tram** connects the airport with the city centre in around **35–45 minutes**
-- A **taxi or rideshare** from the airport takes around **25–30 minutes**, depending on traffic
+- Take a **direct train** to to Oxford Road or Piccadilly, then a taxi or [bus][buses] to the venue should take around 35 to 40 minutes (see our [tips on using the buses][buses])
+- The **Metrolink tram** connects the airport with the city centre, but usually takes longer than the train (see our [tips on using the trams][trams])
+- A **taxi or rideshare** from the airport takes around 25–30 minutes, depending on traffic
 
 ### By Bike
 
