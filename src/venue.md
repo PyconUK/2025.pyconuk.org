@@ -137,11 +137,19 @@ The [Malacuna Hostel] (previously known as [Hilton Chambers]) is also worth cons
 
 ### By Train
 
-Manchester has three major city-centre train stations:
+Manchester has three major city-centre train stations. If travelling directly to the venue, travel times are as follows:
 
-- **Manchester Piccadilly** – a **20-minute walk, 10 minutes by taxi**, or **10–15 minutes by bus or Beryl bike**
-- **Manchester Oxford Road** – a **10-minute walk** to Contact Theatre, or **3 minutes by taxi**
-- **Manchester Victoria** – approximately **30 minutes by public transport** or **15–20 minutes by taxi**
+- **Manchester Piccadilly** is a [30 minute walk][piccadilly station walking] away, 10 minutes by taxi, or [20 minutes by bus][piccadilly station bus] (which includes 12 minutes of walking)
+- **Manchester Oxford Road** is a [25 minute walk][oxford rd station walking], 10 minutes by taxi, or [13 minutes by bus][oxford rd station bus]
+- **Manchester Victoria** is approximately [30 minutes by public transport][victoria station bus] or 20 minutes by taxi
+
+[piccadilly station walking]: https://maps.app.goo.gl/gJ9frfrnEL6WRbNP8
+[piccadilly station bus]: https://maps.app.goo.gl/wbygSRedD8xhLwRGA
+
+[oxford rd station walking]: https://maps.app.goo.gl/gtfz23DoVaWMMZyv6
+[oxford rd station bus]: https://maps.app.goo.gl/dkayLdSyWwuUbzFn7
+
+[victoria station bus]: https://maps.app.goo.gl/tU19ehpW2PyYq8K66
 
 If travelling by bus, see our [tips on using Manchester's buses][buses].
 
@@ -183,7 +191,9 @@ You can plan your journey with [Transport for Greater Manchester], which offers 
 
 **National Express** and **Megabus** coaches arrive at **Manchester Coach Station (Chorlton Street)**.
 
-It's about a **25-minute walk**, or **8–10 minutes by taxi**.
+It's about a [30 minute walk][coach station walk] from the venue, or 10 minutes by taxi.
+
+[coach station walk]: https://maps.app.goo.gl/WSJsAA12mR2HeJ9J6
 
 You can also take a **bus from nearby Portland Street** to the **University of Manchester stop**.
 
@@ -191,9 +201,11 @@ You can also take a **bus from nearby Portland Street** to the **University of M
 
 Flying into **Manchester Airport**?
 
-- Take a **direct train** to to Oxford Road or Piccadilly, then a taxi or [bus][buses] to the venue should take around 35 to 40 minutes (see our [tips on using the buses][buses])
+- Taking a [train][airport train] to Oxford Road or Piccadilly, then a taxi or [bus][buses] to the venue should take around 35 to 40 minutes (see our [tips on using the buses][buses])
 - The **Metrolink tram** connects the airport with the city centre, but usually takes longer than the train (see our [tips on using the trams][trams])
 - A **taxi or rideshare** from the airport takes around 25–30 minutes, depending on traffic
+
+[airport train]: https://maps.app.goo.gl/Pq92bbiRkBtGX9sg9
 
 ### By Bike
 
