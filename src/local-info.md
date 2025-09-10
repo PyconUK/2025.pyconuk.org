@@ -3,31 +3,30 @@ layout: default
 title: Guide to Manchester
 ---
 
-We've collected together some useful tips to help you find your way around Manchester during the conference weekend.
-
 ## Getting around
 
-[The venue] is on Oxford Road (on the south side of Manchester) and is easy to reach on the bus. There are several stops close to the venue.
+We've put together some advice to help you find your way around.
 
-Most of the places you're likely to want to visit in the city are easily reached by one of the (many) buses travelling along Oxford Road.
+Manchester has good bus and tram networks, but (due to the location of the venue) it's likely that **most of the journeys you're likely to make will be best undertaken [by bus], or on foot**. There's also a [hire bike scheme](#by-hire-bike), and taxis are obviously an option too!
 
-[The venue]: /venue
+[by bus]: #by-bus
 
-### On the buses
+### By bus
 
 Key things to know:
 
 - You can **buy a ticket on the bus** with cash, a contactless card, or ApplePay/GooglePay (see the [TfGM page on contactless payments] for full details)
 - A **single journey costs £2** – you get a paper ticket that's valid on multiple buses for up to an hour
 - A **1-day pass costs £5**
+- [The venue](/venue) is on Oxford Road (to the south of the city centre) and is close to several bus stops
 
-The **easiest way to plan a bus journey** (and find the right bus stop) is to **install Manchester's [Bee Network app]** (you don't need to create an account).
+The **easiest way to plan a bus journey** (and find the right stop) is to **install Manchester's [Bee Network app]** (you don't need to create an account).
 
 You can also use general purpose apps like Google Maps or Citymapper, or the [web based journey planner][tfgm planner], but **the Bee app is best for**:
 
-- listing all the buses that are suitable for your journey
+- listing the bus services that are suitable for your journey
 - finding the right bus stop
-- showing you where your next bus is (see the bus tracking video on the [app's page][Bee Network app])
+- live updates showing where your next bus is (see the bus tracking video on the [app's page][Bee Network app])
 
 [Transport for Greater Manchester][TfGM] have a page that documents [accessibility on the buses].
 
@@ -42,7 +41,7 @@ Note that there are a couple of **[free buses] that are useful for travelling ar
 [free buses]: https://tfgm.com/ways-to-travel/bus/free-bus
 [contactless payments]: https://tfgm.com/ways-to-pay/contactless
 
-### On the trams
+### By tram
 
 The trams don't come close to the venue, but if you want to visit somewhere slightly further afield the tram is a great option.
 
@@ -54,7 +53,7 @@ TfGM have a page that documents [accessibility on the trams].
 
 [accessibility on the trams]: https://tfgm.com/accessibility/guides/tram-accessibility
 
-### On a hire bike
+### By hire bike
 
 [Manchester's hire bike scheme] is sponsored by Starling Bank, and the bikes are operated by Beryl.
 
