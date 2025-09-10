@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Venue
+title: The Venue
 ---
 
 {% assign links = site.data.links.html.long %}
