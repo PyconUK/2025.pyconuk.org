@@ -53,3 +53,20 @@ As with the bus, the [Bee Network app] is a good way to plan a journey on the tr
 TfGM have a page that documents [accessibility on the trams].
 
 [accessibility on the trams]: https://tfgm.com/accessibility/guides/tram-accessibility
+
+### On a hire bike
+
+[Manchester's hire bike scheme] is sponsored by Starling Bank, and the bikes are operated by Beryl.
+
+Key things to know:
+
+- You need to **install the [Starling Bank Bikes app]** in order to hire a bike
+- Pedal bikes cost **50p to unlock**, then **5p per minute to ride**
+- **E-bikes** cost **£1 to unlock** and **10p per minute to ride**
+- You can see a map of where the nearest bike stations are (and how many bikes are currently available) in the app
+- The app gives you a brief tutorial on how to unlock and lock a bike the first time you run it
+
+The conference **venue is just off Oxford Road**, which is **well served by cycle lanes** and is largely traffic free during the day. There are a couple of **hire bike stations nearby** (they're visible on the maps in both the [Starling][Starling Bank Bikes app] and [Bee Network][Bee Network app] apps).
+
+[Manchester's hire bike scheme]: https://beeactive.tfgm.com/cycle-hire/
+[Starling Bank Bikes app]: https://beryl.app/NSDinTe52kb?_sm_nck=1
