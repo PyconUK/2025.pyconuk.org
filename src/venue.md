@@ -141,12 +141,6 @@ Manchester has three major city-centre train stations:
 - **Manchester Oxford Road** – a **10-minute walk** to Contact Theatre, or **3 minutes by taxi**
 - **Manchester Victoria** – approximately **30 minutes by public transport** or **15–20 minutes by taxi**
 
-To get to Contact Theatre from **Piccadilly**, you can:
-
-- Take a **bus from Piccadilly Gardens** towards Oxford Road and get off at the **University of Manchester**
-- Rent a **Beryl bike or e-bike**
-- Take a **taxi or rideshare** directly to the venue
-
 ### By Car
 
 **Contact Theatre does not have public parking**. The adjacent car park is for **permit holders only**, but Contact Theatre recommend:
