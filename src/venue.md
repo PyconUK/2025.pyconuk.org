@@ -157,20 +157,24 @@ If travelling by bus, see our [tips on using Manchester's buses][buses].
 
 **Contact Theatre does not have public parking**. The adjacent car park is for **permit holders only**, but Contact Theatre recommend:
 
-- **University of Manchester's [Cecil Street] car park** – **5-minute walk** or **2-minute taxi ride** (tariffs are [listed here])
-- **[Q-Park Manchester Hospitals]** – **10–15-minute walk** or **5–7 minutes by taxi**
+- **University of Manchester's Cecil Street car park**, a [5 minute walk][cecil street walk] or 2 minute taxi ride (tariffs are [listed here])
+- **[Q-Park Manchester Hospitals]**, an [11 minute walk][q-park hosp walk] or 5-7 minutes by taxi
 
 Other options include:
 
-- **[Q-Park First Street]** – **20-minute walk** or **7–10 minutes by taxi**
-- **NCP Oxford Street / NCP Palace** – **10–15-minute walk** or **5–8 minutes by taxi**
+- **[Q-Park First Street]**, a [25 minute walk][q-park first walk] or 7–10 minutes by taxi
+- **[NCP Oxford Street] / [NCP Palace]**, both just over 20 minutes walk or 8 minutes by taxi
 
 **NOTE:** Private <span class="warning">**cars are prohibited** on the section of Oxford Road adjacent to Contact Theatre every day **between 9am and 6pm**, with a **£70 penalty charge**</span> for vehicles that enter. Sections of Oxford Road are also one-way – see the Council's [map of the bus gates] for more details.
 
-[Cecil Street]: https://maps.app.goo.gl/V79v17cnSWRXctfb8
+[cecil street]: https://maps.app.goo.gl/ifYYogtxFm7sd6kC6
 [listed here]: https://www.estates.manchester.ac.uk/services/operationalservices/carparking/#CARPARKE
 [Q-Park Manchester Hospitals]: https://www.q-park.co.uk/en-gb/cities/manchester/manchester-hospitals/
+[q-park hosp walk]: https://maps.app.goo.gl/M7FG8suU2yRQWqwH9
 [Q-Park First Street]: https://www.q-park.co.uk/en-gb/cities/manchester/poi/one-first-street/
+[q-park first walk]: https://maps.app.goo.gl/QPYnwPJRGTVRX3w19
+[NCP Oxford Street]: https://maps.app.goo.gl/GdhPAJzmYNseyWpZ6
+[NCP Palace]: https://maps.app.goo.gl/2VfrxDZoTTVTMqrQA
 
 [map of the bus gates]: https://www.manchester.gov.uk/info/471/tickets_and_fines/7420/bus_gates/2
 
