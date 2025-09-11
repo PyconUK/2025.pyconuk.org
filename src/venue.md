@@ -29,7 +29,7 @@ Parking isn't generally available, but parking for disabled visitors can be arra
 
 #### Ground Floor
 
-<figure>
+<figure class="floor-plan">
   <img src="/images/contact_ground_floor_no_legend.jpg" alt="Ground floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Ground Floor">
 </figure>
 
@@ -37,7 +37,7 @@ Street level main entry, help desk, cloakroom, toilets, lift, cafe/bar providing
 
 #### First Floor
 
-<figure>
+<figure class="floor-plan">
   <img src="/images/contact_first_floor_no_legend.jpg" alt="First floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact First Floor">
 </figure>
 
@@ -45,7 +45,7 @@ Access (including disabled access) to Space 1 - main stage, sponsors and caterin
 
 #### Second Floor
 
-<figure>
+<figure class="floor-plan">
   <img src="/images/contact_second_floor_no_legend.jpg" alt="Second floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Second Floor">
 </figure>
 
