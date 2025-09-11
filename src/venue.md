@@ -178,19 +178,6 @@ Other options include:
 
 [map of the bus gates]: https://www.manchester.gov.uk/info/471/tickets_and_fines/7420/bus_gates/2
 
-### By Bus or Tram
-
-Manchester has an extensive and accessible public transport network.
-
-- **Buses:** Many buses run along Oxford Road and stop at one of the University of Manchester's stops, which are close to Contact Theatre. See our [tips on using Manchester's bus network][buses] for more details.
-
-- **Trams:** Trams (Metrolink) don't stop close to the venue, but you can take a tram to Deansgate-Castlefield or St Peter's Square, then connect [by bus][buses] or taxi (approx. 5–10 minutes). See our [tips on using the trams][trams].
-
-You can plan your journey with [Transport for Greater Manchester], which offers real-time route planning and accessibility info (we recommend their [Bee Network app]).
-
-[Transport for Greater Manchester]: https://tfgm.com/
-[Bee Network app]: https://tfgm.com/tickets-and-passes/ways-to-pay/bee-network-mobile-app
-
 ### By Coach
 
 **National Express** and **Megabus** coaches arrive at **Manchester Coach Station (Chorlton Street)**.
