@@ -37,7 +37,7 @@ On the ground floor, you'll find:
 - Cafe/bar (catering for Space 0 and Lower Foyer)
 
 <figure class="floor-plan">
-  <img src="/images/contact_ground_floor_no_legend.jpg" alt="Ground floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Ground Floor">
+  <img src="/images/contact_ground_floor_no_legend.jpg" height="415" width="410" alt="Ground floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Ground Floor">
   <figcaption>Ground floor</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ On the first floor you'll find:
 - Creche
 
 <figure class="floor-plan">
-  <img src="/images/contact_first_floor_no_legend.jpg" alt="First floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact First Floor">
+  <img src="/images/contact_first_floor_no_legend.jpg" height="387" width="410" alt="First floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact First Floor">
   <figcaption>First Floor</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ And on the Second Floor:
 - Quiet Room
 
 <figure class="floor-plan">
-  <img src="/images/contact_second_floor_no_legend.jpg" alt="Second floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Second Floor">
+  <img src="/images/contact_second_floor_no_legend.jpg" height="387" width="410" alt="Second floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Second Floor">
   <figcaption>Second floor</figcaption>
 </figure>
 
