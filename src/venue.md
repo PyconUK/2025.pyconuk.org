@@ -25,31 +25,45 @@ The site has accessible toilets, baby changing facilities, a lift to all floors,
 
 Parking isn't generally available, but parking for disabled visitors can be arranged in advance. If this is something you need, please [contact us](https://2025.pyconuk.org/contact/).
 
-### Floor plans
+### Guide to the building
 
-#### Ground Floor
+On the ground floor, you'll find:
+
+- Main Entrance
+- Help desk
+- Cloakroom
+- Toilets
+- Lift
+- Cafe/bar (catering for Space 0 and Lower Foyer)
 
 <figure class="floor-plan">
   <img src="/images/contact_ground_floor_no_legend.jpg" alt="Ground floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Ground Floor">
+  <figcaption>Ground floor</figcaption>
 </figure>
 
-Street level main entry, help desk, cloakroom, toilets, lift, cafe/bar providing catering in Space 0 and Lower Foyer.
+On the first floor you'll find:
 
-#### First Floor
+- Access (including disabled access) to the Main Stage (Space 1)
+- Sponsors
+- Catering (Upper Foyer)
+- Creche
 
 <figure class="floor-plan">
   <img src="/images/contact_first_floor_no_legend.jpg" alt="First floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact First Floor">
+  <figcaption>First Floor</figcaption>
 </figure>
 
-Access (including disabled access) to Space 1 - main stage, sponsors and catering in Upper Foyer, Creche.
+And on the Second Floor:
 
-#### Second Floor
+- Access to the Talk Stage (Space 2)
+- Space 3 - Workshops (Django Girls Saturday - prebooked only)
+- Space 4 - Workshops (Young Coders Saturday - prebooked only)
+- Quiet Room
 
 <figure class="floor-plan">
   <img src="/images/contact_second_floor_no_legend.jpg" alt="Second floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Second Floor">
+  <figcaption>Second floor</figcaption>
 </figure>
-
-Access to Space 2 - talk stage, Space 3 - workshops (Django Girls Saturday - prebooked only), Space 4 - workshops (Young Coders Saturday - prebooked only), Quiet Room.
 
 ## Accommodation
 

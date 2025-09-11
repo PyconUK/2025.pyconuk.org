@@ -103,7 +103,12 @@ figure {
 
 @media (min-width: 600px) {
   figure.floor-plan {
+    margin-inline: auto;
     max-width: 70%;
+
+    figcaption {
+      text-align: center;
+    }
   }
 }
 
