@@ -33,12 +33,12 @@ Parking isn't generally available, but parking for disabled visitors can be arra
 Street level main entry, help desk, cloakroom, toilets, lift, cafe/bar providing catering in Space 0 and Lower Foyer.
 
 #### First Floor
-<img width="360" src="/images/contact_first_floor_no_legend.jpg" alt="Ground floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact First Floor">
+<img width="360" src="/images/contact_first_floor_no_legend.jpg" alt="First floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact First Floor">
 
 Access (including disabled access) to Space 1 - main stage, sponsors and catering in Upper Foyer, Creche.
 
 #### Second Floor
-<img width="360" src="/images/contact_second_floor_no_legend.jpg" alt="Ground floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Second Floor">
+<img width="360" src="/images/contact_second_floor_no_legend.jpg" alt="Second floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Second Floor">
 
 Access to Space 2 - talk stage, Space 3 - workshops (Django Girls Saturday - prebooked only), Space 4 - workshops (Young Coders Saturday - prebooked only), Quiet Room.
 
