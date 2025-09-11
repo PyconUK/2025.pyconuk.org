@@ -10,6 +10,7 @@ This year's conference is being held at {{ links.contactmcr }} in Manchester. It
 [good transport links]: #getting-here
 [buses]: /local-info#by-bus
 [trams]: /local-info#by-tram
+[hire bikes]: /local-info#by-hire-bike
 
 <a class="button block" href="https://maps.app.goo.gl/p1jnBq3zDE5Gx9bn9">View on Google Maps</a>
 
@@ -71,7 +72,7 @@ And on the Second Floor:
 
 Before choosing a place to stay, it's worth bearing in mind how far it is from the venue and (if you think you might go) to the city centre.
 
-Most hotels are within a 20-30 minute walk of the venue, but you can also use taxis, [buses], or hop on a "Beryl bike" (Manchester's bike hire scheme).
+Most hotels are within a 20-30 minute walk of the venue, but you can also use taxis, [buses], or hop on one of Manchester's [hire bikes].
 
 ### Hotels
 
@@ -122,7 +123,7 @@ There are a lot of other choices if none of those take your fancy. This [list of
 
 The [Manchester YHA] is in a nice location. It's a [40 minute walk][yha map] to the venue, 20 minutes to Oxford Road station, 30 minutes to Piccadilly station, and 35 minutes to Victoria station.
 
-The [Malacuna Hostel] (previously known as [Hilton Chambers]) is also worth considering. It's on the edge of Manchester's [Northern Quarter], which is where you'll find an eclectic mix of shops, plenty of bars, and lots of restaurants (it can be quite lively in the evenings). It's on the far side of the city centre from the venue, so a [40 minute walk away][malacuna map] (or 10 minutes on a Beryl bike). But it's only an 11 minute walk to Piccadilly station, or 12 minutes to Victoria station.
+The [Malacuna Hostel] (previously known as [Hilton Chambers]) is also worth considering. It's on the edge of Manchester's [Northern Quarter], which is where you'll find an eclectic mix of shops, plenty of bars, and lots of restaurants (it can be quite lively in the evenings). It's on the far side of the city centre from the venue, so a [40 minute walk away][malacuna map] (or 10 minutes on one of the local [hire bikes]). But it's only an 11 minute walk to Piccadilly station, or 12 minutes to Victoria station.
 
 [Manchester YHA]: https://www.yha.org.uk/hostel/yha-manchester
 [yha map]: https://maps.app.goo.gl/gZ6tdiXH4AkqPuDTA
@@ -200,17 +201,15 @@ Flying into **Manchester Airport**?
 
 ### By Bike
 
-You can **rent a Beryl bike** (which can be found around the city) after [downloading the Beryl app].
+You can [rent a bike][hire bikes] (which can be found around the city) after downloading the app (see our [tips on hiring a bike][hire bikes]).
 
 There are Dutch-style cycle lanes along Oxford Road.
-
-[downloading the Beryl app]: https://beryl.cc/
 
 ### By Canal Boat
 
 Arriving by canal? You can moor at **Castlefield Basin**, which is about a:
 
 - **25-minute walk** to Contact Theatre
-- **8-minute taxi ride** or **15–20 minutes by bus or Beryl bike**
+- **8-minute taxi ride** or **15–20 minutes by bus** or [on a hire bike][hire bikes]
 
 Let us know if you're joining us by water — we'd love to hear about it!
