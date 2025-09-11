@@ -11,6 +11,14 @@ This year's conference is being held at {{ links.contactmcr }} in Manchester. It
 
 <a class="button block" href="https://maps.app.goo.gl/p1jnBq3zDE5Gx9bn9">View on Google Maps</a>
 
+### Planning your trip
+
+We've put together a shortlist of [hotels](#hotels) and [hostels](#hostels) in Manchester.
+
+There are also some tips for people travelling by [train](#by-train), [plane](#by-plane), [car](#by-car), or&nbsp;[coach](#by-coach).
+
+**Don't forget that if you're travelling from outside the UK and don't possess a UK passport you are likely to need an [Electronic Travel Authorisation or visa](https://www.gov.uk/eta).**
+
 ### Accessibility
 
 The site has accessible toilets, baby changing facilities, a lift to all floors, and great coffee.
@@ -33,14 +41,6 @@ Access (including disabled access) to Space 1 - main stage, sponsors and caterin
 <img width="360" src="/images/contact_second_floor_no_legend.jpg" alt="Ground floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Second Floor">
 
 Access to Space 2 - talk stage, Space 3 - workshops (Django Girls Saturday - prebooked only), Space 4 - workshops (Young Coders Saturday - prebooked only), Quiet Room.
-
-## Planning your trip
-
-We've put together a shortlist of [hotels](#hotels) and [hostels](#hostels) in Manchester.
-
-There are also some tips for people travelling by [train](#by-train), [plane](#by-plane), [car](#by-car), or&nbsp;[coach](#by-coach).
-
-**Don't forget that if you're travelling from outside the UK and don't possess a UK passport you are likely to need an [Electronic Travel Authorisation or visa](https://www.gov.uk/eta).**
 
 ## Accommodation
 
