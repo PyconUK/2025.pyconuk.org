@@ -25,7 +25,7 @@ The site has accessible toilets, baby changing facilities, a lift to all floors,
 
 Parking isn't generally available, but parking for disabled visitors can be arranged in advance. If this is something you need, please [contact us](https://2025.pyconuk.org/contact/).
 
-### Floorplans
+### Floor plans
 
 #### Ground Floor
 <img width="360" src="/images/contact_ground_floor_no_legend.jpg" alt="Ground floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Ground Floor">
