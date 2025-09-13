@@ -330,7 +330,7 @@ If you fancy some fresh air, the YHA have put together a 3.4 mile walking tour (
 [chethams map]: https://maps.app.goo.gl/NTuE2iey8qfytxm56
 
 [Manchester Central Library]: https://loadstodo.co.uk/venue/manchester-central-library/
-[central library map]: https://maps.app.goo.gl/B35cpNSnRuiTE5zE7
+[central library map]: https://maps.app.goo.gl/34Yq4emGbGy389L56
 
 #### Parks and green spaces
 
