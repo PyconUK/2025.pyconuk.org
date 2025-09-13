@@ -90,7 +90,6 @@ The conference **venue is just off Oxford Road**, which is **well served by cycl
 
 In the order of increasing distance from the venue (and on the way if you're walking from some of our [suggested hotels]), we've got:
 
-- [brew] is on site at the venue, on the ground floor. They serve coffee, sandwiches, toasties, and "treats".
 - [Bold St Coffee] is a 10 minute walk north of the venue ([map][bold st map]), opens at 8am, does a decent coffee, and **laptops are welcome** (with personal workstations and charging points).
 - [Half Dozen Other] is further north up Oxford Rd, and will be enjoyed by pastry fans ([map][half dozen map])
 - Another great choice is [Federal], just a little bit further north again ([map][federal map]). They do a punchy flat white, and (if you can get a table) a good breakfast.
@@ -213,7 +212,7 @@ Bear in mind that Manchester University's new intake of **students will be arriv
 
 - [Lass O'Gowrie] is an old brick building on the banks of the River Medlock, halfway between Oxford Road and Piccadilly stations. It's known for its old tiles and fittings, and Guinness. They also do guest beers and **[serve food][lass o-gowrie menu]**. ([map][lass o-gowrie map], 20 minute walk)
 
-- [YES bar] is next door to the Lass O'Gowrie. There's a bar on the ground floor (where you can get some **substantial bar snacks**) with music venues on other floors. They've got reasonably sized booths that should fit groups of 6, but it might get pretty noisy at the weekend. ([map][yes map], 20 minute walk)
+- [YES bar] is next door to the Lass O'Gowrie. There's a bar on the ground floor (where you can get a **slice of pizza**) with music venues on other floors. They've got reasonably sized booths that should fit groups of 6, but it might get pretty noisy at the weekend. ([map][yes map], 20 minute walk)
 
 - [Bundobust Brewery] is slightly further north. Being a Bundobust, they also **serve food**. Open 'til 10pm on Friday/Saturday, 8pm on Sunday. ([map][bundobust map], 20 minute walk)
 
@@ -277,7 +276,7 @@ Bear in mind that Manchester University's new intake of **students will be arriv
 
 ### Things to do
 
-If you fancy some fresh air, the YHA have put together a 3.4 mile walking tour (see their [PDF and map][yha tour]) that takes in 24 sites of interest around the city. It includes most of the places we mention below, and **the map is a useful reference** if you don't want to do the walk.
+If you fancy some fresh air, the YHA have put together a 3.4 mile **walking tour** (see their [PDF and map][yha tour]) that takes in 24 sites of interest around the city. It includes most of the places we mention below, and **the map is a useful reference** if you don't want to do the walk. There are also a couple of [free buses] that cover a similar area to the YHA's route.
 
 [yha tour]: https://www.yha.org.uk/sites/default/files/uploads/PDFs/Walking%20Maps%202023/227-yha-manchester-city-tour.pdf
 
@@ -321,7 +320,7 @@ If you fancy some fresh air, the YHA have put together a 3.4 mile walking tour (
 
 - [Chetham's Library] and medieval building is the **oldest public library in the English-speaking world**, dating back to 1653. It’s also where Marx and Engels met! Tours include the stunning medieval buildings and atmospheric reading rooms. But you do need to [book your tour][chethams booking], which will last just over an hour. ([map][chethams map])
 
-- [Manchester Central Library] is the second largest library in the UK, and is **famous for its echoey acoustics**. The central room on the upper floor is large and circular with a high domed roof. Make a short sharp sound and it will be echoed back to you a split second later. It's a **great place to study or work**. Open until 5pm on Friday and Saturday, closed Sunday. ([map][central library map])
+- [Manchester Central Library] is the second largest library in the UK, and is **famous for its echoey acoustics**. The central room on the upper floor is large and circular with a high domed roof. Make a short sharp sound and it will be echoed back to you a split second later. It's a **great place to study or work**. There's also a café downstairs. Open until 5pm on Friday and Saturday, closed Sunday. ([map][central library map])
 
 [John Rylands Library]: https://www.library.manchester.ac.uk/rylands/visit/
 [rylands map]: https://maps.app.goo.gl/B35cpNSnRuiTE5zE7
@@ -331,7 +330,7 @@ If you fancy some fresh air, the YHA have put together a 3.4 mile walking tour (
 [chethams map]: https://maps.app.goo.gl/NTuE2iey8qfytxm56
 
 [Manchester Central Library]: https://loadstodo.co.uk/venue/manchester-central-library/
-[central library map]: https://maps.app.goo.gl/B35cpNSnRuiTE5zE7
+[central library map]: https://maps.app.goo.gl/34Yq4emGbGy389L56
 
 #### Parks and green spaces
 
