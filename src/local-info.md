@@ -90,7 +90,6 @@ The conference **venue is just off Oxford Road**, which is **well served by cycl
 
 In the order of increasing distance from the venue (and on the way if you're walking from some of our [suggested hotels]), we've got:
 
-- [brew] is on site at the venue, on the ground floor. They serve coffee, sandwiches, toasties, and "treats".
 - [Bold St Coffee] is a 10 minute walk north of the venue ([map][bold st map]), opens at 8am, does a decent coffee, and **laptops are welcome** (with personal workstations and charging points).
 - [Half Dozen Other] is further north up Oxford Rd, and will be enjoyed by pastry fans ([map][half dozen map])
 - Another great choice is [Federal], just a little bit further north again ([map][federal map]). They do a punchy flat white, and (if you can get a table) a good breakfast.
