@@ -276,7 +276,7 @@ Bear in mind that Manchester University's new intake of **students will be arriv
 
 ### Things to do
 
-If you fancy some fresh air, the YHA have put together a 3.4 mile walking tour (see their [PDF and map][yha tour]) that takes in 24 sites of interest around the city. It includes most of the places we mention below, and **the map is a useful reference** if you don't want to do the walk.
+If you fancy some fresh air, the YHA have put together a 3.4 mile **walking tour** (see their [PDF and map][yha tour]) that takes in 24 sites of interest around the city. It includes most of the places we mention below, and **the map is a useful reference** if you don't want to do the walk. There are also a couple of [free buses] that cover a similar area to the YHA's route.
 
 [yha tour]: https://www.yha.org.uk/sites/default/files/uploads/PDFs/Walking%20Maps%202023/227-yha-manchester-city-tour.pdf
 
