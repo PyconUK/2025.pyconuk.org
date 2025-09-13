@@ -212,7 +212,7 @@ Bear in mind that Manchester University's new intake of **students will be arriv
 
 - [Lass O'Gowrie] is an old brick building on the banks of the River Medlock, halfway between Oxford Road and Piccadilly stations. It's known for its old tiles and fittings, and Guinness. They also do guest beers and **[serve food][lass o-gowrie menu]**. ([map][lass o-gowrie map], 20 minute walk)
 
-- [YES bar] is next door to the Lass O'Gowrie. There's a bar on the ground floor (where you can get some **substantial bar snacks**) with music venues on other floors. They've got reasonably sized booths that should fit groups of 6, but it might get pretty noisy at the weekend. ([map][yes map], 20 minute walk)
+- [YES bar] is next door to the Lass O'Gowrie. There's a bar on the ground floor (where you can get a **slice of pizza**) with music venues on other floors. They've got reasonably sized booths that should fit groups of 6, but it might get pretty noisy at the weekend. ([map][yes map], 20 minute walk)
 
 - [Bundobust Brewery] is slightly further north. Being a Bundobust, they also **serve food**. Open 'til 10pm on Friday/Saturday, 8pm on Sunday. ([map][bundobust map], 20 minute walk)
 
