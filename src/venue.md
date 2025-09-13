@@ -37,7 +37,7 @@ On the ground floor, you'll find:
 - Cloakroom
 - Toilets
 - Lift
-- Cafe/bar (catering for Space 0 and Lower Foyer)
+- Catering (Cafe/bar and Space 0)
 
 <figure class="floor-plan">
   <img src="/images/contact_ground_floor.png" height="1148" width="1171" alt="Ground floor floorplan for Contact, venue for PyconUK {{ site.con_year }}" title="Contact Ground Floor">
@@ -59,8 +59,8 @@ On the first floor you'll find:
 And on the Second Floor:
 
 - Access to the Talk Stage (Space 2)
-- Space 3 - Workshops (Django Girls Saturday - prebooked only)
-- Space 4 - Workshops (Young Coders Saturday - prebooked only)
+- Space 3 - Workshops (Young Coders Saturday - prebooked only)
+- Space 4 - Workshops (Django Girls Saturday - prebooked only)
 - Quiet Room
 
 <figure class="floor-plan">
