@@ -320,7 +320,7 @@ If you fancy some fresh air, the YHA have put together a 3.4 mile walking tour (
 
 - [Chetham's Library] and medieval building is the **oldest public library in the English-speaking world**, dating back to 1653. It’s also where Marx and Engels met! Tours include the stunning medieval buildings and atmospheric reading rooms. But you do need to [book your tour][chethams booking], which will last just over an hour. ([map][chethams map])
 
-- [Manchester Central Library] is the second largest library in the UK, and is **famous for its echoey acoustics**. The central room on the upper floor is large and circular with a high domed roof. Make a short sharp sound and it will be echoed back to you a split second later. It's a **great place to study or work**. Open until 5pm on Friday and Saturday, closed Sunday. ([map][central library map])
+- [Manchester Central Library] is the second largest library in the UK, and is **famous for its echoey acoustics**. The central room on the upper floor is large and circular with a high domed roof. Make a short sharp sound and it will be echoed back to you a split second later. It's a **great place to study or work**. There's also a café downstairs. Open until 5pm on Friday and Saturday, closed Sunday. ([map][central library map])
 
 [John Rylands Library]: https://www.library.manchester.ac.uk/rylands/visit/
 [rylands map]: https://maps.app.goo.gl/B35cpNSnRuiTE5zE7
