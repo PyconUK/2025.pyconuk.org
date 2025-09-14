@@ -5,10 +5,16 @@ title: Guide to Manchester
 
 We've put together a few tips that should help you find your way around while you're in Manchester.
 
+- [Getting here](#getting-here)
+  - [Arriving by train (Manchester Piccadilly)](#arriving-by-train-manchester-piccadilly)
+  - [Arriving by train (Manchester Victoria or Manchester Piccadilly)](#arriving-by-train-manchester-victoria-or-manchester-piccadilly)
+  - [Arriving by taxi or black cab](#arriving-by-taxi-or-black-cab)
+  - [Arriving by bike](#arriving-by-bike)
+  - [Full walking route from Manchester Piccadilly](#full-walking-route-from-manchester-piccadilly-13-miles-approx-30-mins-at-an-average-pace)
 - [Getting around](#getting-around)
-  - [By bus](#by-bus)
   - [By tram](#by-tram)
   - [By hire bike](#by-hire-bike)
+  - [By taxi](#by-taxi)
 - [Food and drink](#food-and-drink)
   - [Cafés and coffee](#cafés-and-coffee)
   - [Supermarkets](#supermarkets)
@@ -19,52 +25,89 @@ We've put together a few tips that should help you find your way around while yo
   - [Noteworthy libraries](#noteworthy-libraries)
   - [Parks and green spaces](#parks-and-green-spaces)
 
+### Getting here
+
+**At present, industrial action is planned for Friday 19th - Monday 22nd Sept and unfortunately, this means no buses will be running along the Oxford road corridor.**
+
+We recognise this is likely to cause some inconvenience, so we've listed alternative ways for people to get to the venue just in case this planned bus drivers strike goes ahead.
+
+TFGM have published [the full list of bus services] affected. This page also lists planned engineering works taking place on some local train routes that weekend.
+
+[the full list of bus services]: https://tfgm.com/bus-industrial-action
+
+#### Arriving by train (Manchester Piccadilly)
+
+For people coming via Manchester Piccadilly, the easiest way to the venue is to take the train from platform 14 to Oxford Road station and then walk 20 mins (or get a [taxi](#arriving-by-taxi-or-black-cab)) to the venue.
+
+Manchester Oxford Road station is included with any train tickets that say [Manchester CTLZ or Manchester STNS]. If you already have a train ticket that specifies a particular station instead, it may be possible to get it amended. 
+
+The walk down Oxford road is straight forward and there are plenty of shops and cafes along the way. You'll walk past the Royal Northern College of Music and the Manchester Museum. Turn off right, just after the Manchester Academy, where you'll immediately see the Contact Theatre's iconic outline. 
+
+Alternatively, you can [walk the full route](#full-walking-route-from-manchester-piccadilly-13-miles-approx-30-mins-at-an-average-pace).
+
+[Manchester CTLZ or Manchester STNS]: https://en.wikipedia.org/wiki/Manchester_station_group
+
+#### Arriving by train (Manchester Victoria or Manchester Piccadilly)
+
+If you're arriving via Manchester Victoria or there's an issue with the trains from platfor 14 at Manchester Piccadilly, take the tram to St Peter's Square and walk along Oxford road.
+
+If you have a train ticket for 'Manchester CTLZ' you can use the tram to get to St Peter's Square without paying extra. Train tickets for a named station (i.e Manchester Piccadilly) or that say Manchester STNS cannot and you'll need to pay for the tram separately. If you've yet to buy a train ticket, look out for a combined ticket with zone 1 trams included, or alternatively see if you can get your ticket amended.
+
+The Metrolink trams use the Tap & Go payment system, so you can pay by tapping a contactless card on one of the yellow circles at a tram stop. You'll need to tap out again using the **same card** at the end of your journey to avoid being charged the maximum day ticket price (see [trams](#by-tram) for extra information).
+
+The [free bus](https://www.visitmanchester.com/listing/free-bus/32878101/) can also be used to take you to the top of Oxford road.
+
+[free bus]: https://www.visitmanchester.com/listing/free-bus/32878101/
+
+#### Arriving by taxi or black cab
+There's a taxi rank just outside of each train station in Manchester.
+
+Please be aware, the bus gate along Oxford road means that while black cabs are able travel directly to the venue, private taxis will take a slightly less direct route.
+
+There's extra information about [local taxis](#by-taxi) below.
+
+#### Arriving by bike
+If you’re cycling to Contact theatre, there are a limited number of covered bike stands available outside. There is also a free bicycle maintenance station at the venue.
+
+It's also possible to [hire a bike](#by-hire-bike) from one of the train stations to the venue.
+
+#### Full walking route from Manchester Piccadilly (1.3 miles, approx 30 mins at an average pace)
+
+The recommended walking route is generally quite safe especially during the day, it's well lit and is frequently used by other pedestrians. It's also a good way to see some of Manchester before settling into the conference.
+
+##### The route
+Leave Piccadilly by the steps leading to the taxi rank and tram stop (not by the main entrance). Turn left out of the station and cross at the crossing. Turn right at the Bulls Head and walk along Granby Row. Then, when you get to the large, red Sackville Street building, turn left across Vimto Park (look out for the large Vimto bottle).
+
+Walk past the University buildings and turn left onto Sackville Street.
+
+Go past the Graphene building and follow the walking and cycling path to go underneath a short underpass. Continue following the path and then turn left to go underneath the Mancunian Way. See if you can spot the "concrete society award 1968" on the far side of the underpass.
+
+Head towards the traffic lights at Grosvenor Street. Cross over the A34 Upper Brook Street and turn onto Grosvenor Street.
+
+Walk along Grosvenor street, home of some good pubs (mentioned below) and turn left. Walk past the Royal Northern College of Music and consider stopping for coffee at the Bold Street Coffee shop on University Green.
+
+Then go past the Manchester Museum and turn right just after the Manchester Academy, where you'll immediately see the Contact Theatre's iconic outline. Congrats, you've made it! 
+
 ### Getting around
 
-Manchester has good bus and tram networks, but (due to the location of the venue) it's likely that **most of the journeys you're likely to make will be best undertaken [by bus], or on foot**. There's also a [hire bike scheme](#by-hire-bike), and taxis are obviously an option too!
+Manchester has good bus (when there's not a strike!) and tram networks, but (due to the location of the venue) it's likely that **most of the journeys you're likely to make will be best undertaken on foot**. There's also a [hire bike scheme](#by-hire-bike), and [taxis](#by-taxi) are obviously an option too!
 
-[by bus]: #by-bus
+The [Bee Network app] is a good way to plan your journey, though Google Maps also works well. There's an online [Bee Network journey planner].
 
-#### By bus
-
-Key things to know:
-
-- You can **buy a ticket on the bus** with cash, a contactless card, or ApplePay/GooglePay (see the [TfGM page on contactless payments] for full details)
-- A **single journey costs £2** – you get a paper ticket that's valid on multiple buses for up to an hour
-- A **1-day pass costs £5**
-- [The venue](/venue) is on Oxford Road (to the south of the city centre) and is close to several bus stops
-
-The **easiest way to plan a bus journey** (and find the right stop) is to **install Manchester's [Bee Network app]** (you don't need to create an account).
-
-You can also use general purpose apps like Google Maps or Citymapper, or the [web based journey planner][tfgm planner], but **the Bee app is best for**:
-
-- listing the bus services that are suitable for your journey
-- finding the right bus stop
-- live updates showing where your next bus is (see the bus tracking video on the [app's page][Bee Network app])
-
-[Transport for Greater Manchester][TfGM] have a page that documents [accessibility on the buses].
-
-Note that there are a couple of **[free buses] that are useful for travelling around the city centre** (though they don't come close to the venue).
-
-[TfGM page on contactless payments]: https://tfgm.com/ways-to-pay/contactless#anchor-Contactless%20on%20bus
 [Bee Network app]: https://tfgm.com/tickets-and-passes/ways-to-pay/bee-network-mobile-app
-[tfgm planner]: https://tfgm.com/plan-a-journey
-[hopper ticket]: https://tfgm.com/tickets-and-passes/bee-bus-hopper-adult
-[TfGM]: https://tfgm.com/
-[accessibility on the buses]: https://tfgm.com/accessibility/guides/bus-accessibility
-[free buses]: https://tfgm.com/ways-to-travel/bus/free-bus
-[contactless payments]: https://tfgm.com/ways-to-pay/contactless
+[Bee Network journey planner]: https://tfgm.com/plan-a-journey
 
 #### By tram
 
-The trams don't come close to the venue, but if you want to visit somewhere slightly further afield the tram is a great option.
+The trams don't come that close to the venue, but if you want to visit somewhere slightly further afield the tram is a great option.
 
-You can purchase a paper ticket from a machine on the platform, or pay by contactless when getting on/off a tram. See the [TfGM] page on [contactless payments] for details of how contactless fees are calculated (and what happens if you forget to tap out at the end of your journey!).
-
-As with the bus, the [Bee Network app] is a good way to plan a journey on the trams, though Google Maps also works well.
+You can purchase a paper ticket from a machine on the platform, or pay by contactless by tapping a contactless card on one of the yellow circles at a tram stop. You'll need to tap out again using the **same card** at the end of your journey to avoid being charged the maximum day ticket price. See the [TfGM] page on [contactless payments] for details of how contactless fees are calculated (and what happens if you forget to tap out at the end of your journey!).
 
 TfGM have a page that documents [accessibility on the trams].
 
+[TfGM]: https://tfgm.com/
+[free buses]: https://tfgm.com/ways-to-travel/bus/free-bus
+[contactless payments]: https://tfgm.com/ways-to-pay/contactless
 [accessibility on the trams]: https://tfgm.com/accessibility/guides/tram-accessibility
 
 #### By hire bike
@@ -83,6 +126,16 @@ The conference **venue is just off Oxford Road**, which is **well served by cycl
 
 [Manchester's hire bike scheme]: https://beeactive.tfgm.com/cycle-hire/
 [Starling Bank Bikes app]: https://beryl.app/NSDinTe52kb?_sm_nck=1
+
+#### By taxi
+
+[Taxi ranks in the city centre]
+
+[Taxi ranks in the city centre]: https://www.manchester.gov.uk/info/1126/taxi_and_private_hire_passenger_information/7782/taxi_ranks_in_the_city_centre
+
+##### Local taxi companies
+* Manchester Street Cars: 0161 228 7878
+* Manchester Taxi Service: 0161 270 8701
 
 ### Food and drink
 
