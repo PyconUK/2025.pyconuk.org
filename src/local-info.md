@@ -89,8 +89,11 @@ Key things to know:
 
 The conference **venue is just off Oxford Road**, which is **well served by cycle lanes** and is largely traffic free during the day. There are a couple of **hire bike stations nearby** (they're visible on the maps in both the [Starling][Starling Bank Bikes app] and [Bee Network][Bee Network app] apps).
 
+Alternatively, [Brompton bike hire] is available at Windmill Green, not far from Oxford Road station. This requires the Brompton app and costs £5 per day.
+
 [Manchester's hire bike scheme]: https://beeactive.tfgm.com/cycle-hire/
 [Starling Bank Bikes app]: https://beryl.app/NSDinTe52kb?_sm_nck=1
+[Brompton bike hire]: (https://bromptonhire.com/locations/manchester/)
 
 #### By taxi
 
