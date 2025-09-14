@@ -9,6 +9,7 @@ We've put together a few tips that should help you find your way around while yo
   - [By bus](#by-bus)
   - [By tram](#by-tram)
   - [By hire bike](#by-hire-bike)
+  - [By taxi](#by-taxi)
 - [Food and drink](#food-and-drink)
   - [Cafés and coffee](#cafés-and-coffee)
   - [Supermarkets](#supermarkets)
@@ -21,7 +22,7 @@ We've put together a few tips that should help you find your way around while yo
 
 ### Getting around
 
-Manchester has good bus and tram networks, but (due to the location of the venue) it's likely that **most of the journeys you're likely to make will be best undertaken [by bus], or on foot**. There's also a [hire bike scheme](#by-hire-bike), and taxis are obviously an option too!
+Manchester has good bus and tram networks, but (due to the location of the venue) it's likely that **most of the journeys you're likely to make will be best undertaken [by bus], or on foot**. There's also a [hire bike scheme](#by-hire-bike), and [taxis](#by-taxi) are obviously an option too!
 
 [by bus]: #by-bus
 
@@ -90,6 +91,18 @@ The conference **venue is just off Oxford Road**, which is **well served by cycl
 
 [Manchester's hire bike scheme]: https://beeactive.tfgm.com/cycle-hire/
 [Starling Bank Bikes app]: https://beryl.app/NSDinTe52kb?_sm_nck=1
+
+#### By taxi
+
+There's a taxi rank just outside of each of the train stations in Manchester and at various points in [the city centre]
+
+Please be aware, the bus gate along Oxford road means that while black cabs are able travel directly to the venue, private taxis will take a slightly less direct route.
+
+[the city centre]: https://www.manchester.gov.uk/info/1126/taxi_and_private_hire_passenger_information/7782/taxi_ranks_in_the_city_centre
+
+##### Local taxi companies
+* Manchester Street Cars: 0161 228 7878
+* Manchester Taxi Service: 0161 270 8701
 
 ### Food and drink
 
