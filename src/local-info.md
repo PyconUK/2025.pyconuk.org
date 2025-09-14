@@ -66,7 +66,7 @@ Note that there are a couple of **[free buses] that are useful for travelling ar
 
 The trams don't come close to the venue, but if you want to visit somewhere slightly further afield the tram is a great option.
 
-You can purchase a paper ticket from a machine on the platform, or pay by contactless when getting on/off a tram. See the [TfGM] page on [contactless payments] for details of how contactless fees are calculated (and what happens if you forget to tap out at the end of your journey!).
+You can purchase a paper ticket from a machine on the platform, or pay by tapping a contactless card on one of the yellow circles at a tram stop. You'll need to tap out again using the **same card** at the end of your journey to avoid being charged the maximum day ticket price. See the [TfGM] page on [contactless payments] for details of how contactless fees are calculated (and what happens if you forget to tap out at the end of your journey!).
 
 As with the bus, the [Bee Network app] is a good way to plan a journey on the trams, though Google Maps also works well.
 
