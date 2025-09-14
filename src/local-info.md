@@ -27,6 +27,13 @@ Manchester has good bus and tram networks, but (due to the location of the venue
 
 #### By bus
 
+<span class="warning">**At present, industrial action is planned for Friday 19th - Monday 22nd Sept. This means no buses will be running along the Oxford road corridor or to/from the train stations.**</span>
+
+<span class="warning">**TFGM have published [the full list of bus services] affected.**</span>
+
+[the full list of bus services]: https://tfgm.com/bus-industrial-action
+
+
 Key things to know:
 
 - You can **buy a ticket on the bus** with cash, a contactless card, or ApplePay/GooglePay (see the [TfGM page on contactless payments] for full details)
@@ -44,7 +51,7 @@ You can also use general purpose apps like Google Maps or Citymapper, or the [we
 
 [Transport for Greater Manchester][TfGM] have a page that documents [accessibility on the buses].
 
-Note that there are a couple of **[free buses] that are useful for travelling around the city centre** (though they don't come close to the venue).
+Note that there are a couple of **[free buses] that are useful for travelling around the city centre** (though they don't come close to the venue). These are not affected by the planned industrial action.
 
 [TfGM page on contactless payments]: https://tfgm.com/ways-to-pay/contactless#anchor-Contactless%20on%20bus
 [Bee Network app]: https://tfgm.com/tickets-and-passes/ways-to-pay/bee-network-mobile-app
