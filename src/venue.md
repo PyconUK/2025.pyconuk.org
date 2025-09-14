@@ -136,6 +136,12 @@ The [Malacuna Hostel] (previously known as [Hilton Chambers]) is also worth cons
 
 ## Getting here
 
+<span class="warning">**At present, industrial action is planned for Friday 19th - Monday 22nd Sept. This means no buses will be running along the Oxford road corridor or to/from the train stations.**</span>
+
+<span class="warning">**TFGM have published [the full list of bus services] affected.**</span>
+
+[the full list of bus services]: https://tfgm.com/bus-industrial-action
+
 ### By Train
 
 Manchester has three major city-centre train stations. If travelling directly to the venue, travel times are as follows:

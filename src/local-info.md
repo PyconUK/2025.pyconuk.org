@@ -9,6 +9,7 @@ We've put together a few tips that should help you find your way around while yo
   - [By bus](#by-bus)
   - [By tram](#by-tram)
   - [By hire bike](#by-hire-bike)
+  - [By taxi](#by-taxi)
 - [Food and drink](#food-and-drink)
   - [Cafés and coffee](#cafés-and-coffee)
   - [Supermarkets](#supermarkets)
@@ -21,11 +22,18 @@ We've put together a few tips that should help you find your way around while yo
 
 ### Getting around
 
-Manchester has good bus and tram networks, but (due to the location of the venue) it's likely that **most of the journeys you're likely to make will be best undertaken [by bus], or on foot**. There's also a [hire bike scheme](#by-hire-bike), and taxis are obviously an option too!
+Manchester has good bus and tram networks, but (due to the location of the venue) it's likely that **most of the journeys you're likely to make will be best undertaken [by bus], or on foot**. There's also a [hire bike scheme](#by-hire-bike), and [taxis](#by-taxi) are obviously an option too!
 
 [by bus]: #by-bus
 
 #### By bus
+
+<span class="warning">**At present, industrial action is planned for Friday 19th - Monday 22nd Sept. This means no buses will be running along the Oxford road corridor or to/from the train stations.**</span>
+
+<span class="warning">**TFGM have published [the full list of bus services] affected.**</span>
+
+[the full list of bus services]: https://tfgm.com/bus-industrial-action
+
 
 Key things to know:
 
@@ -44,7 +52,7 @@ You can also use general purpose apps like Google Maps or Citymapper, or the [we
 
 [Transport for Greater Manchester][TfGM] have a page that documents [accessibility on the buses].
 
-Note that there are a couple of **[free buses] that are useful for travelling around the city centre** (though they don't come close to the venue).
+Note that there are a couple of **[free buses] that are useful for travelling around the city centre** (though they don't come close to the venue). These are not affected by the planned industrial action.
 
 [TfGM page on contactless payments]: https://tfgm.com/ways-to-pay/contactless#anchor-Contactless%20on%20bus
 [Bee Network app]: https://tfgm.com/tickets-and-passes/ways-to-pay/bee-network-mobile-app
@@ -59,7 +67,7 @@ Note that there are a couple of **[free buses] that are useful for travelling ar
 
 The trams don't come close to the venue, but if you want to visit somewhere slightly further afield the tram is a great option.
 
-You can purchase a paper ticket from a machine on the platform, or pay by contactless when getting on/off a tram. See the [TfGM] page on [contactless payments] for details of how contactless fees are calculated (and what happens if you forget to tap out at the end of your journey!).
+You can purchase a paper ticket from a machine on the platform, or pay by tapping a contactless card on one of the yellow circles at a tram stop. You'll need to tap out again using the **same card** at the end of your journey to avoid being charged the maximum day ticket price. See the [TfGM] page on [contactless payments] for details of how contactless fees are calculated (and what happens if you forget to tap out at the end of your journey!).
 
 As with the bus, the [Bee Network app] is a good way to plan a journey on the trams, though Google Maps also works well.
 
@@ -81,8 +89,23 @@ Key things to know:
 
 The conference **venue is just off Oxford Road**, which is **well served by cycle lanes** and is largely traffic free during the day. There are a couple of **hire bike stations nearby** (they're visible on the maps in both the [Starling][Starling Bank Bikes app] and [Bee Network][Bee Network app] apps).
 
+Alternatively, [Brompton bike hire] is available at Windmill Green, not far from Oxford Road station. This requires the Brompton app and costs £5 per day.
+
 [Manchester's hire bike scheme]: https://beeactive.tfgm.com/cycle-hire/
 [Starling Bank Bikes app]: https://beryl.app/NSDinTe52kb?_sm_nck=1
+[Brompton bike hire]: (https://bromptonhire.com/locations/manchester/)
+
+#### By taxi
+
+There's a taxi rank just outside of each of the train stations in Manchester and at various points in [the city centre]
+
+Please be aware, the bus gate along Oxford road means that while black cabs are able travel directly to the venue, private taxis will take a slightly less direct route.
+
+[the city centre]: https://www.manchester.gov.uk/info/1126/taxi_and_private_hire_passenger_information/7782/taxi_ranks_in_the_city_centre
+
+##### Local taxi companies
+* Manchester Street Cars: 0161 228 7878
+* Manchester Taxi Service: 0161 270 8701
 
 ### Food and drink
 
