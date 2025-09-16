@@ -48,6 +48,14 @@ title: Sponsors
       JetBrains is a global software vendor dedicated to building intelligent, productivity-enhancing tools that help developers, data professionals, and teams do their best work. Our flagship Python IDE, PyCharm, is trusted by over 1 million Python developers worldwide. Designed for web developers, data scientists, and AI/ML engineers, PyCharm combines a powerful feature set with a modern AI-enhanced development experience.
     </p>
   </div>
+
+  <div class="box box_sponsor" style="width: 355px">
+    <!-- A bit shorter than silver sponsors are intended to be, because the logo is otherwise too wide on narrow screens (e.g. some phones) -->
+    <a href="https://pulse.internetsociety.org/"><img height="129" width="355" src="/images/sponsors/internet-society-pulse.png" alt="Logo of Internet Society Pulse, a sponsor of PyCon UK {{ site.con_year }}" title="Internet Society Pulse"></a>
+    <p>
+      Internet Society Pulse offers data from trusted sources to help anyone who cares about the Internet to understand the forces that shape it. It is a free, public resource built using Python so we wanted to support the Python community in return.
+    </p>
+  </div>
 </div>
 
 <!--
