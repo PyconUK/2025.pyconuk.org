@@ -33,7 +33,7 @@ title: Sponsors
     <!-- A lot shorter than gold sponsors are intended to be, because the logo is otherwise too wide on narrow screens (e.g. some phones) -->
     <a href="https://flok.health/"><img height="66" width="360" src="/images/sponsors/flok-health.svg" alt="Logo of Flok Health, a sponsor of PyconUK {{ site.con_year }}" title="Flok Health"></a>
     <p>
-      Flok is a Cambridge-based digital health company. We're a team of engineers and clinicians building a scalable care delivery system for physiotherapy patients across the UK, and Python is a key part of in our stack. <a href="https://www.bbc.co.uk/news/articles/cy4y9xm1eejo">Read more in the BBC</a> about Flok's recent impact in Cambridgeshire & Peterborough.
+      Flok is a Cambridge-based digital health company. We're a team of engineers and clinicians building a scalable care delivery system for physiotherapy patients across the UK, and Python is a key part of our stack. <a href="https://www.bbc.co.uk/news/articles/cy4y9xm1eejo">Read more on the BBC News website</a> about Flok's recent impact in Cambridgeshire & Peterborough.
     </p>
   </div>
 
