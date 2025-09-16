@@ -28,6 +28,14 @@ title: Sponsors
       Bloomberg is building the world's most trusted information network for financial professionals. Our 9,000+ engineers are dedicated to advancing and building new systems for the Bloomberg Terminal to solve complex, real-world problems. We employ an active community of 4,000+ Python developers who have their hands in everything from financial analytics and data science to contributing to open source technologies like Project Jupyter. Bloomberg is proud to be a Visionary Sponsor of the Python Software Foundation and sponsor of many Python community events around the world.
     </p>
   </div>
+
+  <div class="box box_sponsor" style="width: 360px">
+    <!-- A lot shorter than gold sponsors are intended to be, because the logo is otherwise too wide on narrow screens (e.g. some phones) -->
+    <a href="https://flok.health/"><img height="66" width="360" src="/images/sponsors/flok-health.svg" alt="Logo of Flok Health, a sponsor of PyconUK {{ site.con_year }}" title="Flok Health"></a>
+    <p>
+      Flok is a Cambridge-based digital health company. We're a team of engineers and clinicians building a scalable care delivery system for physiotherapy patients across the UK, and Python is a key part of in our stack. <a href="https://www.bbc.co.uk/news/articles/cy4y9xm1eejo">Read more in the BBC</a> about Flok's recent impact in Cambridgeshire & Peterborough.
+    </p>
+  </div>
 </div>
 
 <div class="box box_silver box_sponsor_group">
