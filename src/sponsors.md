@@ -36,6 +36,14 @@ title: Sponsors
       Flok is a Cambridge-based digital health company. We're a team of engineers and clinicians building a scalable care delivery system for physiotherapy patients across the UK, and Python is a key part of in our stack. <a href="https://www.bbc.co.uk/news/articles/cy4y9xm1eejo">Read more in the BBC</a> about Flok's recent impact in Cambridgeshire & Peterborough.
     </p>
   </div>
+
+  <div class="box box_sponsor" style="width: 355px">
+    <!-- A lot shorter than gold sponsors are intended to be, because the logo is otherwise too wide on narrow screens (e.g. some phones) -->
+    <a href="https://www.snapshot.reviews/"><img height="145" width="355" src="/images/sponsors/snapshot-ai.png" alt="Logo of Snapshot AI, a sponsor of PyconUK {{ site.con_year }}" title="Snapshot AI"></a>
+    <p>
+      Snapshot AI translates engineering work into real, actionable insights using recursive RAG, transformers, by ingesting data from GitHub, Jira, Bitbucket and more. It understands what your engineering team does, and advocates for developers.
+    </p>
+  </div>
 </div>
 
 <div class="box box_silver box_sponsor_group">
