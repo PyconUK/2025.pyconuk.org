@@ -12,7 +12,8 @@ Bronze: 140
 Other: 130
 Grant: 130
 
-However, the maximum width should be 360 in order to avoid running into problems with narrow phone screens.
+However, the maximum width should be 355 in order to avoid running into problems with narrow phone screens,
+and to keep logos in at least two columns even for those that are very horizontally hungry.
 
 Examples:
 Resize with imagemagick for a silver sponsor (height 150):
