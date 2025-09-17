@@ -81,6 +81,20 @@ title: Sponsors
       Chronic Insanity is a Nottingham-based theatre company that creates and facilitates live events in a variety of traditional, found, and digital spaces.
     </p>
   </div>
+
+  <div class="box box_sponsor" style="width: 355px">
+    <a href="https://burendo.com/"><img height="88" width="355" src="/images/sponsors/burendo.png" alt="Logo of Burendo, a supporter of PyCon UK {{ site.con_year }}" title="Burendo"></a>
+    <p>
+      We are an award-winning consultancy delivering stand-out products and services through technology.
+    </p>
+  </div>
+
+  <div class="box box_sponsor" style="width: 355px">
+    <a href="https://growthinvest.com/"><img height="129" width="355" src="/images/sponsors/growth-invest.png" alt="Logo of Growth Invest, a supporter of PyCon UK {{ site.con_year }}" title="Growth Invest"></a>
+    <p>
+      GrowthInvest make tax-efficient and private investments more accessible to wealth managers, financial advisers, and their high value clients.
+    </p>
+  </div>
 </div>
 
 <div class="box box_gray box_sponsor_group">
