@@ -26,6 +26,7 @@ fin_aid_open: false
 fin_aid_closed: true
 spons_prosp_avail: true
 tickets_open: true
+tickets_sold_out: true
 schedule_ready: true
 schedule_final: false
 show_sponsors: true

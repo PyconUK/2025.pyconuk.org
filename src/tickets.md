@@ -4,6 +4,7 @@ title: Tickets
 ---
 {% assign prices = site.data.prices.md %}
 {% if site.tickets_open != true %}<div class="box box_red"><p><strong>Well done, you found the tickets page, but they're not on sale yet- you'll have to wait a little longer!</strong></p></div>{% endif %}
+{% if site.tickets_sold_out == true %}<span style="font-size: 36px;" class="warning"><strong>Tickets are now sold out. You can join the waiting list in the hope that someone cancels. Good luck!</strong></span>{% endif %}
 
 <div class="box box_red">
   <p><strong>NOTE:</strong>If you are travelling from overseas, <strong>including the EU</strong>, please remember to check all required documentation for entry into the UK.</p>
