@@ -114,7 +114,7 @@ title: Food! (and dietary issues)
   <tr class="foodrow">
     <td class="foodcell">Vegan Curry<br>
     Roasted cauliflower & coconut curry, served with rice & garlic & coriander naan bread</td>
-    <td class="foodcell">Vegan</td>
+    <td class="foodcell vegan">Vegan</td>
     <td class="foodcell">yes</td>
     <td class="foodcell">yes</td>
   </tr>
