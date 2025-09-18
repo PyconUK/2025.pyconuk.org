@@ -41,7 +41,7 @@ title: Food! (and dietary issues)
     <td class="foodcell">yes</td>
   </tr>
   <tr class="foodrow">
-    <td class="foodcell">Party Platters (homemade sausage rolls, scotch eggs & chicken goujons)</td>
+    <td class="foodcell">Party Platters (homemade sausage rolls, scotch eggs & chicken (halal) goujons)</td>
     <td class="foodcell dietaryexception">no</td>
     <td class="foodcell dietaryexception">no</td>
     <td class="foodcell dietaryexception">no</td>
@@ -140,7 +140,7 @@ title: Food! (and dietary issues)
     <td class="foodcell">yes</td>
   </tr>
   <tr class="foodrow">
-    <td class="foodcell">Party Platters (homemade sausage rolls, scotch eggs & chicken goujons)</td>
+    <td class="foodcell">Party Platters (homemade sausage rolls, scotch eggs & chicken (halal) goujons)</td>
     <td class="foodcell dietaryexception">no</td>
     <td class="foodcell dietaryexception">no</td>
     <td class="foodcell dietaryexception">no</td>
@@ -213,7 +213,7 @@ title: Food! (and dietary issues)
   <tr class="foodrow">
     <td class="foodcell">Ratatouille</td>
     <td class="foodcell vegan">Vegan</td>
-    <td class="foodcell dietaryexception">no</td>
+    <td class="foodcell">yes</td>
     <td class="foodcell dietaryexception">no</td>
   </tr>
 </table>
@@ -250,7 +250,7 @@ title: Food! (and dietary issues)
     <td class="foodcell">yes</td>
   </tr>
   <tr class="foodrow">
-    <td class="foodcell">Party Platters (homemade sausage rolls, scotch eggs & chicken goujons)</td>
+    <td class="foodcell">Party Platters (homemade sausage rolls, scotch eggs & chicken (halal) goujons)</td>
     <td class="foodcell dietaryexception">no</td>
     <td class="foodcell dietaryexception">no</td>
     <td class="foodcell dietaryexception">no</td>
