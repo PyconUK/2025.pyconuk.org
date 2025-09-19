@@ -22,45 +22,6 @@
   style="--pretalx-clr-primary: #3aa57c; display: block; margin: 0 auto;">
 </pretalx-schedule>
 
-<script language='javascript'>
-  /* This is a hack to resize the injected pretalx schedule so more of
-   * it fits on the page, without knowing anything about the inner
-   * structure of the injected content.
-   *
-   * We wait for the page to have horizontal scroll-bar, at which point
-   * we can calculate ratios for CSS transforms that shrink the width
-   * of the injected content so it fits horizontally again. A shrinking
-   * CSS transform will center the content by default, so first we use a
-   * translation to shift it to the left (the order of transform operations
-   * matters).
-   *
-   * To keep things from getting too squished, we never scale down to
-   * less than 70% of the original content width.
-   *
-   * Sadly, if the user resizes their browser window or zooms in/out,
-   * they will need to refresh to get this to run again.
-   */
-  var rescale_done = false;
-  function rescale_schedue() {
-    if (!rescale_done) {
-      var ratio1 = Math.max(70, Math.round(100 * window.innerWidth / document.documentElement.scrollWidth) - 2);
-      var ratio2 = Math.round((100 - ratio1)/2);
-      if (ratio1 < 100) {
-        var ps = document.getElementById('pretalx-schedule');
-        var style = ps.getAttribute('style');
-        ps.setAttribute('style', style + 'transform: translateX(-' + ratio2 +'%) scaleX('+ ratio1 +'%) translateY(-' + ratio2 +'%) scaleY('+ ratio1 +'%);');
-        rescale_done = true;
-      }
-    }
-  }
-  /* Check whether we need to resize every 50ms, starting 500ms after
-   * this compiles and giving up after 4 seconds.
-   */
-  for (var i = 10; i < 80; i++) {
-    setTimeout(rescale_schedue, 50 * i);
-  }
-  </script>
-
 {% endif %}
 
     </main>
