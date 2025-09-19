@@ -8,6 +8,13 @@ If you want to make a code of conduct report, you can contact the Code of Conduc
 * Emailing us at <coc@uk.python.org>
 * Finding one of the conference organisers at the conference
 
+Our Code of Conduct team members are:
+
+*   Baptiste Mispelon (he/him)
+*   Becky Smith (she/her)
+*   Providence Onyenekwe (she/her)
+*   Thibaud Colas (he/him)
+
 Should an incident occur, please report it, preferably in writing. If in doubt, report your concerns. There is very little harm in an unneccessary report, but potentially significant harm in an unreported problem.
 
 **All reports will be kept confidential.**
