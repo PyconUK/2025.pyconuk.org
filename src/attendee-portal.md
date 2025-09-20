@@ -55,8 +55,9 @@ title: Attendee Portal
   <div class="box box_blue">
     <h3>Discord</h3>
     <p>
-      Come and chat with your fellow attendees on the conference's
-      <a href="https://discord.com/channels/1047085855958900776/1047085856554483784">Discord channel</a>
+      Come and chat with your fellow attendees on the conference's Discord
+      using the invite link from your ticket confirmation mail, or ask at
+      the registration desk.
     </p>
   </div>
 
