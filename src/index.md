@@ -33,6 +33,12 @@ layout: default
 
 <p>PyCon UK is a community conference, entirely run by volunteers. If you or your company would like to sponsor us, please get in touch at {{ "sponsorship@uk.python.org" | create_mailto_link }}</p>
 
+<div class="box box_blue">
+  <h3>Media</h3>
+  <p><a href="https://flic.kr/s/aHBqjCuzme">Day 1 pictures</a></p>
+</div>
+
+
 {% if site.cfp_closed %}<!--{% endif %}<p>{% if site.cfp_open %}<p>Our CFP is open- if you have an idea for something you'd like to share with our audience: <a href="/call-for-proposals/">Tell us about it!</a>{% else %}CFP coming soon!{% endif %}</p>{% if site.cfp_closed %}-->{% endif %}
 <p>{% if site.tickets_open == true %}<p><a href="/tickets">Join us in {{ site.con_location }}!</a>{% else %}Tickets coming soon!{% endif %}</p>
 
