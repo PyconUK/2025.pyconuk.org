@@ -35,15 +35,17 @@ layout: default
 
 <div class="box box_blue">
   <h3>Media</h3>
-  <p><a href="https://flic.kr/s/aHBqjCuzme">Day 1 pictures</a></p>
+  <p><a href="https://flic.kr/s/aHBqjCuzme">Day 1 pictures</a> | <a href = "https://youtube.com/playlist?list=PLrkpavSsBQZ6bnFa93KWXtMJoBA-a4_f_&si=Xc93N1pDDscJ4KyU">Day 1 videos main stage </a> | <a href="https://youtube.com/playlist?list=PLrkpavSsBQZ41YpNF6EUDUB5wAwwfbKPV&si=Itaz-V1fnDPjdX05" >Day 1 videos space 2</a></p>
+  <p> <a href = "https://flic.kr/s/aHBqjCuJgA">Day 2 pictures</a> | <a href = "https://youtube.com/playlist?list=PLrkpavSsBQZ62noXYqRezmjdE7_CCbT9_&si=sn_U01EvXyUWr29N">Day 2 videos main stage</a> | <a href = "https://youtube.com/playlist?list=PLrkpavSsBQZ6tGVw3Ic4ovat0k9wUJSCs&si=3l19StYlmsQQTni5">Day 2 videos space 2</a></p>
 </div>
 
 
 {% if site.cfp_closed %}<!--{% endif %}<p>{% if site.cfp_open %}<p>Our CFP is open- if you have an idea for something you'd like to share with our audience: <a href="/call-for-proposals/">Tell us about it!</a>{% else %}CFP coming soon!{% endif %}</p>{% if site.cfp_closed %}-->{% endif %}
-<p>{% if site.tickets_open == true %}<p><a href="/tickets">Join us in {{ site.con_location }}!</a>{% else %}Tickets coming soon!{% endif %}</p>
+<!-- <p>{% if site.tickets_open == true %}<p><a href="/tickets">Join us in {{ site.con_location }}!</a>{% else %}Tickets coming soon!{% endif %}</p> -->
 
 <p>You can follow us on
   <ul>
+    <li><a href ="https://www.youtube.com/@PyconUKSoc">YouTube</a></li>
     <li>{{links.bluesky}}</li>
     <li>{{links.linkedin}}</li>
     <li>{{links.mastodon}}</li>
