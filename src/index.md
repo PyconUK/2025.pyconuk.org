@@ -37,6 +37,8 @@ layout: default
   <h3>Media</h3>
   <p><a href="https://flic.kr/s/aHBqjCuzme">Day 1 pictures</a> | <a href = "https://youtube.com/playlist?list=PLrkpavSsBQZ6bnFa93KWXtMJoBA-a4_f_&si=Xc93N1pDDscJ4KyU">Day 1 videos main stage </a> | <a href="https://youtube.com/playlist?list=PLrkpavSsBQZ41YpNF6EUDUB5wAwwfbKPV&si=Itaz-V1fnDPjdX05" >Day 1 videos space 2</a></p>
   <p> <a href = "https://flic.kr/s/aHBqjCuJgA">Day 2 pictures</a> | <a href = "https://youtube.com/playlist?list=PLrkpavSsBQZ62noXYqRezmjdE7_CCbT9_&si=sn_U01EvXyUWr29N">Day 2 videos main stage</a> | <a href = "https://youtube.com/playlist?list=PLrkpavSsBQZ6tGVw3Ic4ovat0k9wUJSCs&si=3l19StYlmsQQTni5">Day 2 videos space 2</a></p>
+  <p> <a href = "https://flic.kr/s/aHBqjCuPNx">Day 3 pictures</a> | <a href = "https://www.youtube.com/playlist?list=PLrkpavSsBQZ6MjNYXtWm_YFEcrLkCxN2w">Day 3 videos main stage</a> | <a href = "https://youtube.com/playlist?list=PLrkpavSsBQZ5eIZIu7vl8UY276vyEyXXr&si=n5YXcettlWflTDes">Day 3 videos space 2</a></p>
+  <p>Recordings from main stage and space 2 are up. There were a couple of talks that needed some minor editing, so if your talk is missing, don't worry, it'll be there within the next week or so.</p>
 </div>
 
 
