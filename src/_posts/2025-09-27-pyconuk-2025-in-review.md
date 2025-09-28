@@ -12,6 +12,7 @@ This was the first year that PyCon UK was held in Manchester, and the first time
       src="/images/2025_photos/av_screens.jpg"
       alt="AV screens showing PyCon UK images.">
     <figcaption>
+      AV screens showing PyCon UK images.
       Photo taken by <a href="https://www.flickr.com/photos/203482025@N06/54797845373/in/album-72177720329119385">Mark Hawkins</a>, CC BY.
     </figcaption>
 </figure>
@@ -23,6 +24,7 @@ The conference was fully sold out, with 350 Pythonistas attending 4 days of talk
       src="/images/2025_photos/djangogirls.jpg"
       alt="A coach at the DjangoGirls workshop.">
     <figcaption>
+      A coach at the DjangoGirls workshop.
       Photo taken by <a href="https://www.flickr.com/photos/203482025@N06/54799801565/in/album-72177720329149392">Mark Hawkins</a>, CC BY.
     </figcaption>
 </figure>
@@ -34,6 +36,7 @@ From a show of hands in the opening session, we estimate that at least half of o
       src="/images/2025_photos/hello.jpg"
       alt="View of the main PyCon UK stage during the opening session. Screen shows a slide with the word 'Hello!'">
     <figcaption>
+      View of the main PyCon UK stage during the opening session.
       Photo taken by <a href="https://www.flickr.com/photos/203482025@N06/54797929565/in/album-72177720329119385">Mark Hawkins</a>, CC BY.
     </figcaption>
 </figure>
@@ -45,6 +48,7 @@ We are very grateful to our Gold sponsors, [Bloomberg](https://techatbloomberg.c
       src="/images/2025_photos/sponsors.jpg"
       alt="A representative from one of the PyCon UK sponsors talks to an attendee in front of a sponsor banner.">
     <figcaption>
+      A representative from one of the PyCon UK sponsors talks to an attendee in front of a sponsor banner.
       Photo taken by <a href="https://www.flickr.com/photos/203482025@N06/54797930070/in/album-72177720329119385">Mark Hawkins</a>, CC BY.
     </figcaption>
 </figure>
@@ -66,6 +70,7 @@ Thank you to everyone who has been involved in PyCon UK, as organiser, sponsor, 
       src="/images/2025_photos/attendees.jpg"
       alt="A view of the lower foyer at Contact Theatre, with PyCon UK attendees engaged in conversation.">
     <figcaption>
+      A view of the lower foyer at Contact Theatre, with PyCon UK attendees engaged in conversation.
       Photo taken by <a href="https://www.flickr.com/photos/203482025@N06/54801732246/in/album-72177720329168007">Mark Hawkins</a>, CC BY.
     </figcaption>
 </figure>
