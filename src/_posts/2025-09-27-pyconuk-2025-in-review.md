@@ -29,7 +29,7 @@ The conference was fully sold out, with 350 Pythonistas attending 4 days of talk
     </figcaption>
 </figure>
 
-From a show of hands in the opening session, we estimate that at least half of our attendees were first timers at PyCon UK, and it is wonderful to see that we are reaching new members of the community. Our attendees came from 12 different countries (approximately 80% from the UK). We had 65 sessions, from 59 speakers, selected from a total of 230 proposals.
+From a show of hands in the opening session, we estimate that at least half of our attendees were first timers at PyCon UK, and it is wonderful to see that we are reaching new members of the community. Our attendees came from 12 different countries (approximately 80% from the UK). We had 65 sessions, from 59 speakers, selected from 230 proposals, plus a total of 28 lightning talks.
 
 <figure>
     <img
