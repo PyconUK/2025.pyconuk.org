@@ -29,7 +29,7 @@ The conference was fully sold out, with 350 Pythonistas attending 4 days of talk
     </figcaption>
 </figure>
 
-From a show of hands in the opening session, we estimate that at least half of our attendees were first timers at PyCon UK, and it is wonderful to see that we are reaching new members of the community. Our attendees came from 12 different countries (approximately 80% from the UK). We had 65 sessions, from 59 speakers, selected from a total of 230 proposals.
+From a show of hands in the opening session, we estimate that at least half of our attendees were first timers at PyCon UK, and it is wonderful to see that we are reaching new members of the community. Our attendees came from 12 different countries (approximately 80% from the UK). We had 65 sessions, from 59 speakers, selected from 230 proposals, plus a total of 28 lightning talks.
 
 <figure>
     <img
@@ -59,7 +59,7 @@ As part of our commitment to inclusivity, we had a free creche available to atte
 
 It was a pleasure to be able to invite community groups to join us this year, and we were very happy to welcome the [University of Manchester](https://www.manchester.ac.uk/), [PyData Manchester](https://www.meetup.com/pydata-manchester/) and the [Django Software Foundation](https://www.djangoproject.com/fundraising/). It was great to see their booths busy and we hope that attendees enjoyed finding out more about what they do.
 
-A first for PyCon UK - we also featured a world premiere on Friday evening: [Ada](https://pretalx.com/pyconuk-2025/talk/PXCUQW/), a brand-new play inspired by Ada Lovelace, written by Emily Holyoake, and staged as a rehearsed reading by Nottingham-based theatre company [Chronic Insanity](https://www.chronicinsanity.co.uk/). The performance was spell-binding and very well received; if you weren’t able to attend, we are very pleased to reveal that Emily has given permission for the recording to be uploaded to our [YouTube channel](https://www.youtube.com/@PyconUKSoc), so keep your eyes peeled for that in the next week or two!
+A first for PyCon UK - we also featured a world premiere on Friday evening: [Ada](https://pretalx.com/pyconuk-2025/talk/PXCUQW/), a brand-new play inspired by Ada Lovelace, written by Emily Holyoake, and staged as a rehearsed reading by Nottingham-based theatre company [Chronic Insanity](https://www.chronicinsanity.co.uk/). The performance was spell-binding and very well received; if you weren’t able to attend, we are very happy that Emily has given permission for the recording to be uploaded to our [YouTube channel](https://www.youtube.com/watch?v=CtrsssksCNU){:target="_blank"}.
 
 A final word from me (Becky, your conference director). I said the word "community" more times than I can count over the days of PyCon UK. Sometimes it feels like it’s becoming a bit of a cliche; but I truly believe that community is what we are. Community is what makes PyCon UK not just a python conference, but a place where we all feel welcome to come and make friends, build opportunities, learn, teach and just be ourselves - whoever we are. 
 
